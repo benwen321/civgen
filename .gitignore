@@ -1,3 +1,4 @@
 .env
 rag/rag_env/
 .venv
+.DS_Store
