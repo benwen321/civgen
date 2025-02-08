@@ -1,0 +1,10 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/insurance/acknowledge",
+    "title": "Electronic Acknowledgement of Insurance",
+    "text_content": "DMV verifies that a motor vehicle is properly insured by comparing the owner and vehicle identification information on file at DMV with liability insurance information on the owner and vehicle transmitted to DMV by any insurance company. If no record of liability insurance is found, DMV requires the motor vehicle owner to provide insurance information.\nWhen the vehicle owner provides DMV with their insurance company name and policy number, DMV forwards that information to the named insurance company for verification. The insurance company then verifies or denies coverage for the vehicle either by an online process or through Electronic Data Interchange (EDI).\nResponding by EDI\nInsurance companies reporting by EDI can receive and respond to these acknowledgements electronically. DMV encourages any company reporting by EDI to use the electronic acknowledgement process. You can find out more by viewing\nFinancial Responsibility Insurance Filing via Internet\n.\nResponding by an Internet Process\nInsurance companies not reporting by EDI can receive and respond to these acknowledgements electronically using an Internet process. To establish an Internet link with DMV, complete the \"\nApplication for Extranet Transaction Access\n\" (Form US532E) and mail it to DMV.\nIMPORTANT: Please disregard the fee and documentation mentioned on the Application for Extranet Transaction Access form, as it does not apply to this process.",
+    "attachments": {
+        "fr04.pdf": "attachments\\fr04.pdf",
+        "us532e.pdf": "attachments\\us532e.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

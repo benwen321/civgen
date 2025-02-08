@@ -1,0 +1,9 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/motor-carriers/portal",
+    "title": "Motor Carrier Portal",
+    "text_content": "Welcome!\nIn 2023, Virginia Department of Motor Vehicles (DMV) launched a Motor Carrier Portal for you to access EZFleet and EZReg. The portal uses two-factor authentication to enhance security in the access to these important systems. As we add additional systems to the portal, you will also enjoy the convenience of access to all your fleet management needs via one secure log-in.\nIf you haven't registered with the Motor Carrier Portal:\nTo continue your access to EZFleet and EZReg, please complete an\naccess request form\n(US002). Most customers will select \"new user to existing account\" under \"request type,\" unless you have an existing Okta authentication credential. You must have the latest version of Adobe Acrobat Reader to download the form. If you need help with that, or have any other questions, please see our frequently asked questions below.\nCost\nIn order to register, and every four years thereafter, a non-refundable $65 fee for each user will be required. If you need to reassign an Okta Authentication within that 4-year period, DMV will do so at no fee.\nPayment for the fee will be collected by Motor Carrier Services by using either an Automated Clearing House (ACH) debit or credit, E-Check or by credit card. DMV accepts American Express, MasterCard, or Visa credit cards.\nAdditional Information\nFrequently Asked Questions (FAQs)\nAgreement Services and Motor Carrier Portal Access Request (Form US002)\nMotor Carrier Portal Login",
+    "attachments": {
+        "us002.pdf": "attachments\\us002.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

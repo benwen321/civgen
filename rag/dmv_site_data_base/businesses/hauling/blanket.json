@@ -1,0 +1,31 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/hauling/blanket",
+    "title": "Hauling Permits - Structured Exclusion Lists & Locality Documents",
+    "text_content": "VDOT Structure Exclusion Lists\nPlease download the VDOT structure exclusion list referenced in your hauling permit.\nMP227\nN1R\nN2R\nN3R\nN4R\nN5R\nN6R\nN7R\nN8R\nN45T\nLocality Documents\nPlease download the locality documents referenced in your hauling permit.\nCity of Chesapeake\nCHS-1\nCHS-2\nCity of Hampton\nHMP-1\nCity of Norfolk\nNFK-1\nCity of Portsmouth\nPRT-1\nPRT-2\nCity of Richmond\nRCH-1\nRCH-2\nCity of Suffolk\nSFK-1\nSFK-3\nCity of Virginia Beach\nVBC-1\nVBC-2\nAddendum",
+    "attachments": {
+        "mp227.pdf": "attachments\\mp227.pdf",
+        "N1R.pdf": "attachments\\N1R.pdf",
+        "N2R.pdf": "attachments\\N2R.pdf",
+        "N3R.pdf": "attachments\\N3R.pdf",
+        "N4R.pdf": "attachments\\N4R.pdf",
+        "N5R.pdf": "attachments\\N5R.pdf",
+        "N6R.pdf": "attachments\\N6R.pdf",
+        "N7R.pdf": "attachments\\N7R.pdf",
+        "N8R.pdf": "attachments\\N8R.pdf",
+        "N45T.pdf": "attachments\\N45T.pdf",
+        "chs1.pdf": "attachments\\chs1.pdf",
+        "chs2.pdf": "attachments\\chs2.pdf",
+        "hmp1.pdf": "attachments\\hmp1.pdf",
+        "nfk1.pdf": "attachments\\nfk1.pdf",
+        "prt1.pdf": "attachments\\prt1.pdf",
+        "prt2.pdf": "attachments\\prt2.pdf",
+        "rch1.pdf": "attachments\\rch1.pdf",
+        "rch2.pdf": "attachments\\rch2.pdf",
+        "sfk1.pdf": "attachments\\sfk1.pdf",
+        "sfk3.pdf": "attachments\\sfk3.pdf",
+        "vbc1.pdf": "attachments\\vbc1.pdf",
+        "vbc2.pdf": "attachments\\vbc2.pdf",
+        "vbaddendum.pdf": "attachments\\vbaddendum.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

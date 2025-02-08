@@ -1,0 +1,9 @@
+{
+  "url": "https://www.dmv.virginia.gov/vehicles/registration/first-reg",
+  "title": "First Time Vehicle Registration",
+  "text_content": "Virginia, DMV, vehicle registration, customer service center, license plates, decals, expiration date, registration card, VSA-14, one-year registration, two-year registration, annual fee, gross vehicle weight, 55000 lbs, International Registration Plan",
+  "attachments": {
+      "vsa14.pdf": "attachments\\vsa14.pdf",
+      "dmv201.pdf": "attachments\\dmv201.pdf"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/motor-carriers/hauling-forms",
+    "title": "Downloadable Forms for Hauling Permits",
+    "text_content": "Number\nForm Name\nHP 15\nEscort Vehicle Driver Training Site Application\nHP 17\nEscort Vehicle Driver Training Site-Classroom Instruction Attendance Roster\nHP 404\nEscort Vehicle Driver Certification Application\nHP 405\nEscort Driver's Manual\nHP 406\nVirginia Blanket Hauling Permit Permit Locality Addendum\nHP 410\nEscort Vehicle Driver Train-the-Trainer Class Roster\nHP 505\nEscort Vehicle Driver Training Instructor Application\nMP 230\nLocality Blanket Hauling Permit Dimensions and Conditions",
+    "attachments": {
+        "hp15.pdf": "attachments\\hp15.pdf",
+        "hp17.pdf": "attachments\\hp17.pdf",
+        "hp404.pdf": "attachments\\hp404.pdf",
+        "hp405.pdf": "attachments\\hp405.pdf",
+        "hp406.pdf": "attachments\\hp406.pdf",
+        "hp410.pdf": "attachments\\hp410.pdf",
+        "hp505.pdf": "attachments\\hp505.pdf",
+        "mp230.pdf": "attachments\\mp230.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/lien/overview",
+    "title": "Processing Overview",
+    "text_content": "The Virginia DMV has developed an internal Electronic Lien Program (ELP) application. The messages produced by DMV\u2019s ELP process are transmitted through folders.\nE-Lien Process (Nighttime Batch)\nDMV creates a Lien Notification message for each new title establishment that contains a lien issued by an electronic lien program participant.\nOutgoing Lien Notification, Confirmation and Error messages are sent to the lienholder's folder.\nParticipating electronic lienholders retrieve ELP messages from their individual accounts.\nLienholders process DMV Lien Notification messages and format a response. Title Print requests and Lien Satisfaction messages are created.\nLienholder responses and requests are sent to DMV\u2019s folder.\nDMV retrieves all messages from its folder. Lien Release and Title Print request messages are translated and processed. A confirmation message is created for each message received.\nAll Confirmation and Error responses to lienholder originated messages are stored for next day transmission to the lienholder\u2019s folder (see step 2 above).",
+    "attachments": {
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

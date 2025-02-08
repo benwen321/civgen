@@ -1,0 +1,20 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/tax-act/fuels/library-forms",
+    "title": "Fuels Tax Downloadable Forms",
+    "text_content": "Please note that paper tax returns are no longer accepted. All returns must be submitted electronically using one of the three available file transmission methods. See Electronic Filing for more information.\nNumber\nForm Name\nFT 214\nVirginia Fuels Tax Notice of Tax Payment Default\nFT 226\nFuels Tax Refund Application for Fuel Used in Diesel Vehicles\nFT 459\nAssignment of Securities in Lieu of Surety Bond\nFT 462\nFuels Tax Bond\nLE 444\nFuel Inspection Notice\nTS 216\nApplication for Fuels Tax Refund\nTS 216A\nAgriculture and Horticulture Fuels Tax Refund Application\nTS 217\nFuels Tax Refund Application for Fuel Used in Boats or Watercraft\nTS 218\nItemized Statement of Bulk Storage Fuel Used\nTS 219\nFuel Tax Refund Application - Exports\nTS 221\nFuels Tax Refund Application for Fuel Used in Taxi Operation\nTS 225\nFuels Tax Refund Application for Regular Route Common Carrier of Passengers",
+    "attachments": {
+        "ft214.pdf": "attachments\\ft214.pdf",
+        "ft226.pdf": "attachments\\ft226.pdf",
+        "ft459.pdf": "attachments\\ft459.pdf",
+        "ft462.pdf": "attachments\\ft462.pdf",
+        "le444.pdf": "attachments\\le444.pdf",
+        "ts216.pdf": "attachments\\ts216.pdf",
+        "ts216a.pdf": "attachments\\ts216a.pdf",
+        "ts217.pdf": "attachments\\ts217.pdf",
+        "ts218.pdf": "attachments\\ts218.pdf",
+        "ts219.pdf": "attachments\\ts219.pdf",
+        "ts221.pdf": "attachments\\ts221.pdf",
+        "ts225.pdf": "attachments\\ts225.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

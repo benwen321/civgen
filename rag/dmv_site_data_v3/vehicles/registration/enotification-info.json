@@ -1,0 +1,8 @@
+{
+  "url": "https://www.dmv.virginia.gov/vehicles/registration/enotification-info",
+  "title": "Receive Notifications - Email and Text Reminders",
+  "text_content": "DMV, e-notifications, email reminders, text reminders, vehicle registration, driver's license renewal, ID renewal, online services, MyDMV account, expiration date, opt-out, contact information update, paperless notifications, eligibility requirements, personal use vehicle, leased vehicles, notification schedule, customer number, PIN/password, Virginia DMV",
+  "attachments": {
+      "dmv201.pdf": "attachments\\dmv201.pdf"
+  }
+}

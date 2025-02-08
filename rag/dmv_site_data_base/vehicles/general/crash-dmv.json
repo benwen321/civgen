@@ -1,0 +1,11 @@
+{
+    "url": "https://www.dmv.virginia.gov/vehicles/general/crash-dmv",
+    "title": "Reporting a Crash to DMV",
+    "text_content": "The Department of Motor Vehicles maintains the official record of all reportable crashes occurring within the Commonwealth.\nA driver, vehicle owner or a representative may report an accident to DMV by submitting an accident report (\nFR200\n), along with the Information Request Form (\nCRD-93\n) and a payment of $8.00.\nRequests may be submitted:\nBy mail:\nCustomer Records Work Center, Room 514\nVirginia Department of Motor Vehicles\nPost Office Box 27412\nRichmond, VA 23269\nMailed requests must be accompanied by a check or money order, as DMV no longer accepts credit card payments via mail.\nBy fax:\n(804) 367-0390\nA completed \"License, ID Card and Records Payment Authorization\" (form\nDMS 004\n) must also be submitted.\nAt a\ncustomer service center\nPayment can be made as cash or by check, money order or credit card.\nInsurance Information\nOn the report, the individual may indicate that there is reason to believe the other vehicle involved in the accident was uninsured. In that case, DMV will send a request for insurance information to the other owner of the other vehicle specified in the report. If the owner of the other vehicle fails to respond or is found to have no insurance, an order of suspension is issued for the owner.\nThe vehicle owner or representative filing the accident report may request that DMV provide them with the insurance information obtained by using the information request form (\nCRD-93\n) and submitting payment.",
+    "attachments": {
+        "fr200.pdf": "attachments\\fr200.pdf",
+        "crd93.pdf": "attachments\\crd93.pdf",
+        "dms004.pdf": "attachments\\dms004.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}

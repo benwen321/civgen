@@ -1,0 +1,10 @@
+{
+    "url": "https://www.dmv.virginia.gov/businesses/insurance/ext-forms",
+    "title": "Insurance Industry Services - Forms",
+    "text_content": "Virginia law requires any person convicted of violation of the provisions in the Code of Virginia \u00a7 18.2-51.4, 18.2-266 and 18.2-272 to purchase a liability insurance policy with coverage that is double the minimum limit set forth in the Code of Virginia \u00a7\n46.2-472\n.\nInsurers use forms FR-44 and FR-46 to submit financial responsibility information to DMV. Form FR-44 is used to certify that such coverage was purchased and in effect and form FR-46 is submitted to report cancellation of such coverage.\nFR-44\nFR-46",
+    "attachments": {
+        "fr44.pdf": "attachments\\fr44.pdf",
+        "fr46.pdf": "attachments\\fr46.pdf",
+        "dmv201.pdf": "attachments\\dmv201.pdf"
+    }
+}
