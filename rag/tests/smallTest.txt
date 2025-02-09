@@ -1,0 +1,6 @@
+##QUERYFILES
+tests/geminiTest.txt
+##TESTMETHODS
+directQuery
+##EXPECTEDRESULTS
+5

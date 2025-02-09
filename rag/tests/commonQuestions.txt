@@ -1,0 +1,12 @@
+##QUERY
+
+##EXPECTEDRESULTS
+licenses-ids\\license\\applying.json
+##QUERY
+What is one way to obtain a motorcycle endorsement in Virginia?
+Who leads the motorcycle rider training courses in Virginia?
+How can one find information about a motorcycle rider training course near them?
+What types of rider courses are available in Virginia?
+##EXPECTEDRESULTS
+root\vrtp.json
+##END

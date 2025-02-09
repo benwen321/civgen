@@ -1,0 +1,2462 @@
+##QUERY
+What documentation is required annually for active military service members to maintain their vehicle tax exemption in Virginia Beach?
+What is the requirement for jointly owned vehicles to qualify for the military service exemption?
+How does Virginia Beach update DMV records regarding vehicle tax exemptions for volunteer fire company members?
+Are there any vehicle registration fee exemptions for veterans in Virginia Beach?
+Are daily rental vehicles subject to the same vehicle registration fees in Virginia Beach?
+##EXPECTEDRESULTS
+root\exemp-disc-chart.json
+##QUERY
+What type of courses are offered for motorcycle riders in Virginia?
+Who leads the motorcycle rider training courses?
+How can I find a motorcycle rider training course near me?
+Are the motorcycle rider training courses only for beginner riders?
+##EXPECTEDRESULTS
+root\vrtp.json
+##QUERY
+What percentage of monthly revenue do DMV Select offices receive?
+What are some of the benefits for county and town governments of becoming a DMV Select?
+What services do DMV Select Offices offer?
+What are the requirements to become a DMV Select Partner?
+How can I apply to become a DMV Select Partner?
+##EXPECTEDRESULTS
+businesses\become-dmv-select\homepage.json
+##QUERY
+When applying for a manufacturer or distributor license, what must be included with the application?
+If a manufacturer or distributor is located in Virginia, what are the office space requirements?
+How far in advance must a manufacturer or distributor file a new franchise agreement with the DMV before offering it to Virginia motor vehicle dealers?
+How much are the fees for a one-year and two-year Manufacturer or Distributor License?
+What is the fee for the first two manufacturer or distributor license plates?
+##EXPECTEDRESULTS
+businesses\dealer-services\car-and-truck-filing-fees-and-plate-requirements.json
+##QUERY
+What code covers the franchise laws in Virginia?
+If a manufacturer or distributor is headquartered in Virginia, what code allows for additional uses of vehicles displaying the new "HQ" or "MD" plates?
+If a company is located in Virginia, how much office space is required for applying for a manufacturer or distributor license?
+What form is needed for the Manufacturer or Distributor License?
+How long prior to offering a franchise to Virginia motor vehicle dealers must the manufacturer or distributor file a copy of each new, amended, modified, or different form of franchise agreement or addendum to the agreement with the Department of Motor Vehicles (DMV)?
+##EXPECTEDRESULTS
+businesses\dealer-services\franchise-motorcycle.json
+##QUERY
+What must be included when applying for a manufacturer or distributor license in Virginia?
+If a company applying for a manufacturer or distributor license is located in Virginia, what office space requirements must they meet?
+How far in advance must a manufacturer or distributor file a new franchise agreement with the Virginia DMV before offering it to Virginia motor vehicle dealers?
+What clause must the franchise or sales agreement include?
+What is the fee for the first two manufacturer or distributor license plates?
+##EXPECTEDRESULTS
+businesses\dealer-services\franchise-trailer.json
+##QUERY
+Where is titling and registration for motor vehicle dealers performed?
+Where can I find more information about dealer processing sites?
+Where can I find the Dealer/Operator Study Guide?
+Where can I find the Vehicle Registration Fee Chart?
+Where can I find information about Drive-Away License Plates?
+##EXPECTEDRESULTS
+businesses\dealer-services\homepage.json
+##QUERY
+What are the filing requirements for cars and trucks?
+What are the fee requirements for cars and trucks?
+What are the plate requirements for cars and trucks?
+How do I become a licensed rebuilder?
+What are the requirements for trailer certificate filing?
+##EXPECTEDRESULTS
+businesses\dealer-services\licensing.json
+##QUERY
+What must be included when applying for a manufacturer or distributor license?
+If a manufacturer or distributor company is located in Virginia, what are the office space requirements?
+How long prior to offering the franchise to Virginia motor vehicle dealers must a copy of each new, amended, modified, or different form of franchise agreement or addendum to the agreement be filed with the DMV?
+What must all franchisers include in any agreement with a motor vehicle dealer in the Commonwealth?
+What is the fee for the first two manufacturer or distributor license plates?
+##EXPECTEDRESULTS
+businesses\dealer-services\motor-home-and-travel-trailer-filing-franchises.json
+##QUERY
+What form must I complete to certify zoning compliance?
+How much does a primary salvage type license cost for one year?
+What is the minimum square footage of enclosed space required for the business location?
+What is the fee for a Mobile Demolisher Permit, and how long is it valid?
+What is the form number for the Mobile Demolisher Permit application?
+##EXPECTEDRESULTS
+businesses\dealer-services\salvage-process-a.json
+##QUERY
+What form is required to apply for a salvage dealer, demolisher, rebuilder, salvage pool or vehicle removal operator license?
+What form is required for zoning compliance certification?
+What is the license fee for a primary salvage type license for one year?
+If the business is a corporation, what proof is required with the application?
+What is the minimum enclosed space required for the business location?
+##EXPECTEDRESULTS
+businesses\dealer-services\salvage-process-b.json
+##QUERY
+What form is needed to certify zoning compliance?
+How much does a one-year primary salvage type license cost?
+What is the minimum size requirement for the enclosed business space?
+What form needs to be completed to apply for a salvage dealer, demolisher, rebuilder, salvage pool or vehicle removal operator license?
+##EXPECTEDRESULTS
+businesses\dealer-services\salvage-process-d.json
+##QUERY
+What are VDOT Structure Exclusion Lists?
+Where can I download the VDOT structure exclusion list?
+What locality documents are available for download?
+Which cities have locality documents available?
+Which documents are available for the City of Chesapeake?
+##EXPECTEDRESULTS
+businesses\hauling\blanket.json
+##QUERY
+What is the permit cost for Arlington County Trucks for one year?
+What is the maximum gross weight allowed for a three-axle concrete hauling vehicle?
+What is the permit cost for cotton module vehicles for two years?
+What is the maximum gross weight allowed for a five-axle vehicle hauling Virginia-grown farm products?
+What is the cost of an overweight permit for tank wagons for one year?
+##EXPECTEDRESULTS
+businesses\hauling\free.json
+##QUERY
+What is a hauling permit?
+What are the maximum dimensions a vehicle can be without needing a hauling permit?
+How can I obtain a hauling permit?
+What are the payment options for hauling permits?
+What are the different types of hauling permits and their costs?
+##EXPECTEDRESULTS
+businesses\hauling\homepage.json
+##QUERY
+How does the DMV verify that a motor vehicle is properly insured?
+What happens if the DMV finds no record of liability insurance for a vehicle?
+How do insurance companies that report by EDI respond to DMV's insurance verification requests?
+How do insurance companies not reporting by EDI respond to DMV's insurance verification requests?
+Where can I find the 'Application for Extranet Transaction Access' form?
+##EXPECTEDRESULTS
+businesses\insurance\acknowledge.json
+##QUERY
+What is SR-22 certification required for?
+What is FR-44 certification required for?
+Are FR-44 liability insurance coverage limits higher or lower than SR-22 coverage limits?
+What does DMV do if a driver did not comply with the FR-44 certification requirement before January 1, 2009?
+What are the benefits of electronic filing of financial responsibility certifications with the DMV?
+##EXPECTEDRESULTS
+businesses\insurance\certifications.json
+##QUERY
+What Virginia code sections require a person convicted of a violation to purchase a liability insurance policy with double the minimum limit?
+What form is used to certify that liability insurance coverage was purchased and is in effect?
+What form is submitted to report cancellation of liability insurance coverage?
+##EXPECTEDRESULTS
+businesses\insurance\ext-forms.json
+##QUERY
+What are the penalties for declaring a motor vehicle to be insured when it is not?
+How long is proof of financial responsibility (form SR-22) required after a suspension?
+How can the financial responsibility requirement be met?
+What happens if liability insurance coverage on a vehicle terminates during the registration period?
+What is the amount of the non-compliance fee for uninsured vehicles?
+##EXPECTEDRESULTS
+businesses\insurance\frrequire.json
+##QUERY
+What is the purpose of the Insurance Verification Program?
+Who regulates Virginia's businesses and economic concerns?
+How does the State Corporation Commission protect consumers?
+When does insurance verification occur?
+##EXPECTEDRESULTS
+businesses\insurance\general-info.json
+##QUERY
+What is the purpose of Virginia's insurance industry resource center?
+What are the reporting requirements for Automobile Liability Insurance Companies?
+What is the Uninsured Vehicle Penalty?
+What are the Financial Responsibility Certification requirements (SR22/SR26 - FR44/FR46)?
+Where can I find a listing of applicable laws related to insurance?
+##EXPECTEDRESULTS
+businesses\insurance\homepage.json
+##QUERY
+What are the penalties for failing to comply with an Insurance Verification Inquiry or Order of Suspension?
+What information is needed to provide proof of insurance online?
+If I did not have insurance on the 'comply by' date, what are my options?
+What documentation can I provide to DMV if I sold the vehicle before the deadline date?
+What are the steps to reinstate my driver's license if it has been suspended due to lack of insurance?
+##EXPECTEDRESULTS
+businesses\insurance\intro.json
+##QUERY
+What Virginia Motor Vehicle Laws authorize the Department of Motor Vehicles to conduct Insurance Verification Processes?
+Which Virginia code section discusses a driver giving immediate notice of certain accidents?
+Which Virginia code section discusses the suspension of licenses for unsatisfied judgements?
+Which Virginia code section discusses proof of financial responsibility?
+Which Virginia code section discusses the registration of uninsured motor vehicles?
+##EXPECTEDRESULTS
+businesses\insurance\laws.json
+##QUERY
+What is the email address to contact Use Agreement Services?
+What is the phone number to contact Use Agreement Services?
+What types of forms can insurance companies submit electronically to the Virginia DMV?
+Can insurance companies view and print summaries of insurance certificates submitted online?
+##EXPECTEDRESULTS
+businesses\insurance\mcs-filing.json
+##QUERY
+What is the cornerstone of all monitoring methods used by the Virginia DMV to monitor insurance of Virginia registered vehicles?
+What form do drivers receive at roadside checks requesting insurance information?
+What happens if a vehicle owner fails to respond to a request for insurance information or does not have insurance?
+How many local law enforcement agencies participate with DMV in the Law Enforcement Notification process?
+What code of Virginia requires insurance companies to provide liability insurance information to DMV electronically?
+##EXPECTEDRESULTS
+businesses\insurance\monitoring-methods.json
+##QUERY
+How often do insurance companies in Virginia need to provide electronic updates to the DMV?
+What information do insurance companies need to provide to the Department of Motor Vehicles?
+How can insurance companies express their interest in a secure transfer option with the DMV?
+Where can I find information about the reporting requirements for automobile liability insurance?
+Who should I contact if I have questions about insurance reporting or need to update company contact information with the DMV?
+##EXPECTEDRESULTS
+businesses\insurance\online.json
+##QUERY
+What happens if a registered motor vehicle is found to be uninsured in Virginia?
+How long must a person furnish proof of financial responsibility (SR-22 form) after their license and registration are suspended for lack of insurance?
+How much is the statutory fee that must be paid when a vehicle is found to be uninsured?
+What form do insurance companies use to notify the DMV if insurance coverage is canceled during the three-year period of financial responsibility?
+How can insurance companies submit financial responsibility insurance certifications to the DMV?
+##EXPECTEDRESULTS
+businesses\insurance\penalties.json
+##QUERY
+What should the flat file be named for submitting title conversions?
+What information should be included in the cover letter accompanying the submittal?
+What is the DMV job name for title conversions?
+What should be done with paper documents after the conversion?
+What does it mean if the error message 'FIRST 100 CONSECUTIVE RECORDS IN ERROR' appears on the Lienholder's Report?
+##EXPECTEDRESULTS
+businesses\lien\convert-electronic.json
+##QUERY
+How will lienholders notify DMV Headquarters of location changes?
+How often will lienholders transmit information to the DMV?
+What will routine transmissions include?
+When will DMV read the emergency folder?
+How should the lienholder notify DMV Headquarters of errors in transmission and/or data?
+##EXPECTEDRESULTS
+businesses\lien\electronic-lien-lienholder-codes-participants.json
+##QUERY
+What is the Electronic Lien Program (ELP)?
+When did the mandate for the E-Lien program take effect?
+Who is mandated to participate in the E-Lien program?
+Who is not eligible to participate in the E-Lien program?
+What are the benefits of the E-Lien program?
+##EXPECTEDRESULTS
+businesses\lien\faqs.json
+##QUERY
+What is the Electronic Lien Program (ELP)?
+How does the Electronic Lien Program (ELP) benefit the DMV and lienholders?
+How does a lienholder release a title to the vehicle owner in the Electronic Lien Program (ELP)?
+What information is included in the lien/title message sent to the lienholder?
+What are the two DMV folders used in the Electronic Lien Program (ELP) and how are they processed?
+##EXPECTEDRESULTS
+businesses\lien\homepage.json
+##QUERY
+What form is used for the Electronic Lien Program Application?
+Who is authorized to sign the Electronic Lien and Title Program Agreement (VSA-150)?
+To what email address should the completed ELP Application (form VSA 78), the signed ELP Agreement (form VSA-150), and any supporting authorization be sent?
+What form does DMV establish title transactions based on?
+Why is it important to keep dealerships and lienholder's branch offices informed of the status of the Electronic Lien Program?
+##EXPECTEDRESULTS
+businesses\lien\how-join.json
+##QUERY
+What type of messages does the DMV create for each new title establishment?
+Where are outgoing Lien Notification, Confirmation, and Error messages sent?
+Where do participating electronic lienholders retrieve ELP messages from?
+What type of requests are created by lienholders in response to DMV Lien Notification messages?
+Where are all Confirmation and Error responses to lienholder originated messages stored?
+##EXPECTEDRESULTS
+businesses\lien\overview.json
+##QUERY
+What data elements will the DMV transmit to identify a vehicle owner and vehicle?
+When does the lienholder send the 'lien satisfied' transaction?
+What happens when DMV receives a 'lien satisfied' message from the lienholder and there are no other liens on the vehicle?
+When would a lienholder use the 'Print Only' transaction?
+What should DMV or the lienholder do if they discover data transmitted by mistake, data that should have been sent but contained errors, or problems with their programs transmitting the data?
+##EXPECTEDRESULTS
+businesses\lien\process.json
+##QUERY
+What is the purpose of the Electronic Lien and Title Program Agreement?
+When does the Electronic Lien and Title Program Agreement become effective?
+How can the Electronic Lien and Title Program Agreement be terminated?
+What transactions can be completed using the electronic mailbox?
+Who is responsible for the costs incurred to participate in the ELP?
+##EXPECTEDRESULTS
+businesses\lien\sample.json
+##QUERY
+What is the purpose of the Lien Notification message (LC message) in the Virginia DMV system?
+What is the purpose of the Response to Lien Notification message (RC message)?
+What is the purpose of the Release of Interest Due to Error transaction (LE message)?
+What software can lienholders use to format ELP messages using the AAMVAnet AMIE message format?
+What are the connectivity requirements for lienholders to access the Virginia DMV system?
+##EXPECTEDRESULTS
+businesses\lien\tech-specs.json
+##QUERY
+What information must the Lienholder provide to the DMV?
+What information must the Lienholder submit on paper to DMV to establish test records?
+What messages will the Lienholder send to the DMV during testing?
+What messages will the DMV send in response to the Lienholder's messages?
+What message types are allowed in the Emergency Mailbox?
+##EXPECTEDRESULTS
+businesses\lien\testing.json
+##QUERY
+What is the email address for Online Vehicle Programs?
+What is the fax number for the Virginia DMV?
+What is the phone number for VINtek, Inc.?
+What is the website for PDP Group, Inc.?
+##EXPECTEDRESULTS
+businesses\lien\who-contact.json
+##QUERY
+What types of transportation services are considered licensed transportation services?
+Is every transportation service required to be licensed by the DMV?
+Where can I find a list of approved transportation carriers?
+What type of authority are the applicants listed requesting?
+Where can I find detailed information about the authority requested or the protest process?
+##EXPECTEDRESULTS
+businesses\motor-carriers\auth-mc.json
+##QUERY
+How can I find a licensed and registered limousine service in my area?
+What should I ask when checking the service's references?
+Why should I ask how the service screens its drivers?
+What should I do to ensure the limousine I am hiring is safe?
+What should I ask to clarify the total cost of the limousine service?
+##EXPECTEDRESULTS
+businesses\motor-carriers\choosing-limo.json
+##QUERY
+What is the cost to obtain a Motor Carrier Overweight Citation Transcript?
+What information is displayed on a Detailed Overweight Citation Transcript?
+How many days do I have to submit a written Notice of Elect to Contest Request to DMV?
+What happens if I fail to satisfy the final case disposition within 30 calendar days?
+##EXPECTEDRESULTS
+businesses\motor-carriers\citations.json
+##QUERY
+How do I report a vehicle as sold?
+Where can I surrender my license plates and/or vehicle registration?
+How can I close my International Registration Plan (IRP) account?
+What form is needed to close my International Fuel Tax Agreement (IFTA) accounts?
+Where can I send written notice that I have cancelled my USDOT number and wish to have my UCR account closed?
+##EXPECTEDRESULTS
+businesses\motor-carriers\closing-checklist.json
+##QUERY
+What is the phone number for Motor Carrier Customer Service?
+What is the email address for hauling permits?
+What is the phone number for citation tracking?
+What is the email address for EZ Fleet support?
+What is the phone number for the Driver Alert program?
+##EXPECTEDRESULTS
+businesses\motor-carriers\contactmcs.json
+##QUERY
+What is required to perform the duties of an oversize/overweight load escort vehicle operator in Virginia?
+What are the eligibility requirements for the escort vehicle driver certification?
+How long is the escort vehicle driver certificate valid for?
+Where can I complete the application and take the test for the escort vehicle driver certification?
+How will I receive my certification after passing the Escort Vehicle Driver's Test?
+##EXPECTEDRESULTS
+businesses\motor-carriers\escort-dr-cert.json
+##QUERY
+What is the minimum number of vehicles a company must have to participate in the EZFleet program?
+Is there a fee to participate in the EZFleet Program?
+What are the accepted payment methods for vehicle transactions in EZFleet?
+What are some of the benefits of using EZFleet?
+How do I enroll in EZFleet?
+##EXPECTEDRESULTS
+businesses\motor-carriers\ezfleet.json
+##QUERY
+What are some common topics that Virginia DMV customers inquire about?
+What is IFTA?
+What is UCR?
+What are Virginia Citations?
+What is HVUT?
+##EXPECTEDRESULTS
+businesses\motor-carriers\faqs.json
+##QUERY
+What are the rate schedules for private carriers and tractors?
+What are the rate schedules for 'For Rent or For Hire Carriers' for a year or less?
+What are the rate schedules for 'For Rent or For Hire Carriers' greater than a year?
+What are the rate schedules for Common Carriers and City Buses for a year or less?
+What are the rate schedules for Common Carriers and City Buses greater than a year?
+##EXPECTEDRESULTS
+businesses\motor-carriers\fee-chart.json
+##QUERY
+What form is used to apply for a Virginia International Registration Plan (IRP) New Account?
+Which form is used to report IFTA Quarterly Taxes?
+What is the form number for the Transportation Network Company Operating Authority Certificate Application?
+Where can I find information regarding changes to Virginia's Property Carrier Laws?
+What form should I use to apply for an Escort Vehicle Driver Certification?
+##EXPECTEDRESULTS
+businesses\motor-carriers\forms.json
+##QUERY
+What is form HP 405?
+What form is the Escort Driver's Manual?
+What is form HP 15?
+##EXPECTEDRESULTS
+businesses\motor-carriers\hauling-forms.json
+##QUERY
+What programs are under the Virginia DMV's Motor Carrier Services?
+What kind of permits and citations are handled by the Virginia DMV's Motor Carrier Services?
+What kind of tax information is relevant to Virginia's Motor Carrier Services?
+What kind of vehicle registration and titling is handled by the Virginia DMV's Motor Carrier Services?
+What is the US Department of Transportation Number?
+##EXPECTEDRESULTS
+businesses\motor-carriers\homepage.json
+##QUERY
+What is the minimum registered gross weight that requires proof of Federal Heavy Vehicle Use Tax payment in Virginia?
+What form is used to file the Heavy Highway Vehicle Use Tax Return?
+What are two acceptable forms of payment proof for state registration purposes?
+What is the maximum annual mileage allowance for commercial vehicles to be exempt from HVUT?
+What government entities are exempt from the Heavy Vehicle Use Tax?
+##EXPECTEDRESULTS
+businesses\motor-carriers\hvut.json
+##QUERY
+What is IFTA?
+If I am based in Virginia, where do I apply for a motor fuel road tax license?
+How often do I file a tax return with the Virginia DMV for IFTA?
+What form should my IFTA license be in?
+Where should I store my IFTA license on my electronic device?
+##EXPECTEDRESULTS
+businesses\motor-carriers\ifta.json
+##QUERY
+What might for-hire motor carriers transporting property or passengers point to point within Virginia be required to obtain?
+What must certificate and license applicants include with their application?
+What must happen before an intrastate operating authority certificate or permit is issued?
+How will the operating authority be indicated on vehicles that have been issued Virginia registration?
+What are some reasons for denial and suspension/revocation?
+##EXPECTEDRESULTS
+businesses\motor-carriers\intrastate.json
+##QUERY
+What is the International Registration Plan (IRP)?
+Which states and provinces are members of the IRP?
+What should I do if I cannot provide proof of credentials?
+What is the Full Reciprocity Plan (FRP)?
+Can I carry my IRP cab cards in an electronic image?
+##EXPECTEDRESULTS
+businesses\motor-carriers\irp.json
+##QUERY
+Where can I find information about the Transportation Efficiency Act?
+Where can I find the Virginia Secretary of Transportation website?
+Where can I find the Virginia Department of Transportation website?
+Where can I find the website for the Virginia State Police?
+Where can I find safety-related information on commercial vehicles?
+##EXPECTEDRESULTS
+businesses\motor-carriers\links.json
+##QUERY
+What weight extension does an overload permit authorize?
+On what roads are overload permits valid?
+What is the maximum gross weight allowed with an overload permit?
+How often can overload permits be issued?
+What is the annual fee for a 5% Overload Permit?
+##EXPECTEDRESULTS
+businesses\motor-carriers\overload.json
+##QUERY
+What is the Motor Carrier Portal?
+Why does the Motor Carrier Portal use two-factor authentication?
+What form do I need to fill out to request access to the Motor Carrier Portal?
+How much does it cost to register for the Motor Carrier Portal?
+What payment methods are accepted for the Motor Carrier Portal registration fee?
+##EXPECTEDRESULTS
+businesses\motor-carriers\portal.json
+##QUERY
+What does a Virginia DMV trip permit authorize?
+How long is a Virginia DMV trip permit valid for?
+For what vehicles are Virginia DMV trip permits intended?
+What programs are vehicles subject to in order to require a trip permit?
+How can I apply for a Virginia DMV trip permit?
+##EXPECTEDRESULTS
+businesses\motor-carriers\trip-permits.json
+##QUERY
+What is the Unified Carrier Registration program?
+Who determines UCR policies?
+How are fees charged under the UCR program determined?
+What businesses are subject to UCR?
+How are the fees imposed on motor carriers and freight forwarders assessed?
+##EXPECTEDRESULTS
+businesses\motor-carriers\ucra.json
+##QUERY
+What types of vehicles require a USDOT number?
+What is the weight requirement for vehicles that require a USDOT number?
+How many passengers, including the driver, can a vehicle transport and still require a USDOT number?
+What defines interstate commerce?
+How can I obtain a downloadable version of the MCS-150 application for a USDOT number?
+##EXPECTEDRESULTS
+businesses\motor-carriers\usdot.json
+##QUERY
+What is VirginiaMCS?
+How do I sign up for VirginiaMCS?
+What do I do if I want an agent to manage my account?
+What agreement do I need to complete if I am a third party that will issue trip permits on behalf of a carrier?
+How do I request CVIEW access?
+##EXPECTEDRESULTS
+businesses\motor-carriers\va-mcs-signup.json
+##QUERY
+Is there a fee for using VirginiaMCS?
+What are some of the benefits of VirginiaMCS?
+What payment options are available for VirginiaMCS transactions?
+What is EZFleet?
+##EXPECTEDRESULTS
+businesses\motor-carriers\va-mcs.json
+##QUERY
+What services are provided at Motor Carrier Service Centers?
+Where can I find forms related to motor carriers?
+Where can I find a list of acronyms related to Motor Carrier Services?
+How does Virginia monitor trucks for weight compliance?
+How do I contact Motor Carrier Services?
+##EXPECTEDRESULTS
+businesses\motor-carriers\weigh.json
+##QUERY
+Who is the Director of Sales/Operations for CVR - Computerized Vehicle Registration?
+What is the website for Cox Automotive - Dealertrack Registration and Titling Solutions?
+Who is the Senior Operations Manager for VITU (Motor Vehicle Software Corporation)?
+What is the phone number to contact DMV's Dealer Services if I have questions regarding the Online Dealer program or its vendors?
+Is the Virginia DMV currently accepting additional third party vendors?
+##EXPECTEDRESULTS
+businesses\odealer\contacts.json
+##QUERY
+What is the Online Dealer automated interface system?
+How do customers benefit from the Online Dealer program?
+What are the responsibilities of the vendor in the Online Dealer program?
+What are the responsibilities of the dealer in the Online Dealer program?
+How many vehicles must an independent dealer sell annually to be required to join the Online Dealer program?
+##EXPECTEDRESULTS
+businesses\odealer\homepage.json
+##QUERY
+What is the minimum number of vehicles a company must have to participate in the EZReg program?
+What are some of the transactions that can be completed using EZReg?
+Is there a fee to participate in the EZReg program?
+What payment methods are accepted for vehicle transactions in EZReg?
+How can a company enroll in the EZReg program?
+##EXPECTEDRESULTS
+businesses\online-fleet\ezreg.json
+##QUERY
+What is the name of the DMV feature that allows salvage pools to conduct transactions electronically?
+What are the benefits of using the DMV's online salvage pool feature?
+How do salvage pools submit applications for titles or non-repairable certificates to the DMV using the online system?
+How are funds transferred from the salvage pool to the DMV when using the online system?
+Who is the Territory Manager for CVR, and what is their contact information?
+##EXPECTEDRESULTS
+businesses\online-salvage\homepage.json
+##QUERY
+What is eVA?
+Does the Virginia DMV discriminate against businesses?
+What type of businesses does the Virginia DMV encourage to participate?
+How can I find business opportunities with the Virginia DMV?
+##EXPECTEDRESULTS
+businesses\opportunities\homepage.json
+##QUERY
+What is tax security?
+What are the two options for filing tax security in Virginia?
+What form does my bonding company need to file with the DMV?
+What licensees must file tax security with DMV?
+If I defer my tax payments to my alternative fuel provider, do I need to file tax security with DMV?
+##EXPECTEDRESULTS
+businesses\tax-act\bond.json
+##QUERY
+What is the percentage discount for suppliers who sell fuel from the terminal rack?
+What is the administrative discount for suppliers and alternative fuel providers who file returns with payments timely?
+What is the one-percent discount, and who may take it?
+Under what circumstances are discounts not allowed?
+Can suppliers receive credit for uncollected taxes?
+##EXPECTEDRESULTS
+businesses\tax-act\discounts.json
+##QUERY
+What is a diversion?
+Where do you report diversions?
+How do you report a diversion?
+What information is needed to report a diversion?
+What are the penalties for not reporting a diversion?
+##EXPECTEDRESULTS
+businesses\tax-act\diversions.json
+##QUERY
+What is the maximum fine for a first offense of driving away without paying for fuel in Virginia?
+What is the maximum length of driver's license suspension for a first offense of driving away without paying for fuel in Virginia?
+What is the maximum fine for a second offense of driving away without paying for fuel in Virginia?
+What is the length of driver's license suspension for a second offense of driving away without paying for fuel in Virginia?
+What can help deter individuals from driving away without paying for fuel?
+##EXPECTEDRESULTS
+businesses\tax-act\drive-aways.json
+##QUERY
+As a supplier, can I take the .005 percent discount on fuel delivered to stations owned by my company?
+When can my supplier draft my account for the fuels taxes that I owe?
+Can I make my tax payments to DMV electronically?
+Why do exporters need registered agents?
+Why does DMV give the federal government different exemptions than state or local governments?
+##EXPECTEDRESULTS
+businesses\tax-act\faqs.json
+##QUERY
+What is the point at which fuels physically leave a terminal and are delivered into a tank truck, rail car, or other means of transfer called?
+What are the two categories of fuel in Virginia?
+Besides the fuels tax, what other fee is collected on each gallon of fuel sold and delivered or used in the Commonwealth of Virginia?
+Who pays the fuels tax to DMV?
+When are fuel activity information and tax payments due?
+##EXPECTEDRESULTS
+businesses\tax-act\fuels.json
+##QUERY
+How many gallons of LNG are equivalent to one gallon of gasoline?
+How many pounds of LNG are equivalent to one gallon of gasoline?
+How many pounds of hydrogen are equivalent to one gallon of gasoline?
+How many cubic feet of hydrogen are equivalent to one gallon of gasoline?
+How many pounds of CNG are equivalent to one gallon of gasoline?
+##EXPECTEDRESULTS
+businesses\tax-act\gge.json
+##QUERY
+What was the rate per gallon for gasoline between July 1, 2023 and June 30, 2024?
+What was the storage tank fee per gallon between July 1, 2021 and June 30, 2022?
+What was the rate per gallon for blended diesel between January 1, 2020 and June 30, 2020?
+What was the rate per gallon for aviation fuel between 1/01/2016 to 6/30/2016?
+What was the rate per gallon for gasoline between 7/01/2013 and 12/31/2013?
+##EXPECTEDRESULTS
+businesses\tax-act\historical-rates.json
+##QUERY
+What is the Motor Fuels Tax?
+Where is the Motor Fuels Tax deposited?
+What is the Wholesale Sales Tax?
+What is the Storage Tank Fee used for?
+What commercial vehicles need an International Fuels Tax Agreement license?
+##EXPECTEDRESULTS
+businesses\tax-act\homepage.json
+##QUERY
+What legislative changes were effective on 7/01/2013?
+What legislative changes were effective on 7/01/2012?
+What changes to supplier returns were effective on 1/01/2012?
+What schedules were new in 2010?
+What was the topic of the webinar training in 2007?
+##EXPECTEDRESULTS
+businesses\tax-act\info-news.json
+##QUERY
+Are paper tax returns accepted?
+What is the form number for the Virginia Fuels Tax Notice of Tax Payment Default?
+What is the form number for the Fuels Tax Refund Application for Fuel Used in Diesel Vehicles?
+What form do I use to apply for a Fuels Tax Refund for Fuel Used in Boats or Watercraft?
+##EXPECTEDRESULTS
+businesses\tax-act\library-forms.json
+##QUERY
+What fuel activities require a person to have a Blender license?
+What are the requirements for someone to have a Bulk User of Alternative Fuels license?
+What are the requirements for someone to have a Retailer of Alternative Fuels license?
+What are the two licensing categories in Virginia?
+What is needed to apply for a Virginia Fuels Tax License?
+##EXPECTEDRESULTS
+businesses\tax-act\license.json
+##QUERY
+When is motor fuel taxed?
+When is alternative fuel taxed?
+When are taxes due to the DMV?
+What happens if the taxes are not paid?
+Are there tax-exempt sales?
+##EXPECTEDRESULTS
+businesses\tax-act\payments.json
+##QUERY
+Who may have to file fuel activity information monthly to DMV?
+If you do not have to submit fuel activity information, are you required to maintain a record of your fuel activity?
+Who is required to file a report?
+When is the fuel activity information due?
+How are all returns required to be filed?
+##EXPECTEDRESULTS
+businesses\tax-act\reports.json
+##QUERY
+What is the gasoline tax rate from July 1, 2023 to June 30, 2024?
+What is the storage tank fee per gallon?
+What is the diesel tax rate from July 1, 2024 to June 30, 2025?
+What is the aviation fuel tax rate?
+How are alternative fuels taxed?
+##EXPECTEDRESULTS
+businesses\tax-act\tax-rates.json
+##QUERY
+What form is required to apply for a Transportation Network Company Operating Authority Certificate?
+How much is the filing fee for Option 1 when applying for a TNC Certificate of Fitness?
+What form is required to file either a Passenger Carrier and Passenger Broker Bond?
+If my application is not approved how much of the application fee is refundable?
+Where should I mail all documents for either option when applying for a TNC Certificate of Fitness?
+##EXPECTEDRESULTS
+businesses\tnc\apply.json
+##QUERY
+How can I contact a motor carrier representative at the Virginia DMV?
+What is the email address for motor carrier services at the Virginia DMV?
+What is the phone number to contact a motor carrier representative at the Virginia DMV?
+What is the phone number for hearing impaired individuals to contact the Virginia DMV?
+##EXPECTEDRESULTS
+businesses\tnc\contacts.json
+##QUERY
+What is a Transportation Network Company (TNC)?
+How can a company register as a TNC in Virginia?
+Am I required to register my vehicle in Virginia to provide TNC services?
+What should I do if I have a safety complaint regarding a TNC driver?
+How should I recognize a legitimate TNC driver?
+##EXPECTEDRESULTS
+businesses\tnc\faq.json
+##QUERY
+What is a TNC certificate of fitness?
+What information is a TNC required to send to the customer at the end of a prearranged ride?
+What information must a TNC make available through its digital platform at all times during a prearranged ride?
+What policy is a TNC required to have and enforce?
+Are TNC operations allowed on airport property?
+##EXPECTEDRESULTS
+businesses\tnc\homepage.json
+##QUERY
+What are the minimum liability coverage amounts for death, bodily injury, and property damage when a TNC partner accepts a prearranged ride request?
+What type of insurance is required to be provided from the moment a passenger enters a TNC partner vehicle until the passenger exits the vehicle?
+How can a Transportation Network Company meet its obligations through a policy obtained by a TNC partner?
+What are the minimum liability coverage amounts required for death, bodily injury, and property damage when a TNC partner is logged onto the digital platform but has not accepted a ride request?
+What is the TNC's duty when an accident occurs involving a TNC partner vehicle?
+##EXPECTEDRESULTS
+businesses\tnc\insurance.json
+##QUERY
+How often must a certificate of fitness be renewed?
+How will I be notified about renewing my certificate of fitness?
+What are the two options for renewing the certificate of fitness, and how much does each cost?
+What happens if I fail to renew my certificate of fitness in time?
+Does the DMV reexamine the fitness of for-hire motor carriers?
+##EXPECTEDRESULTS
+businesses\tnc\renew.json
+##QUERY
+How old must TNC partners be to drive?
+How often do TNC partners have to undergo a background check?
+What driving offenses within the past 7 years would bar someone from being a TNC driver?
+What driving offenses within the past 3 years would bar someone from being a TNC driver?
+What databases are checked during the background check?
+##EXPECTEDRESULTS
+businesses\tnc\screening.json
+##QUERY
+What is the maximum seating capacity allowed for vehicles providing TNC services?
+Can a vehicle branded as salvage be used for TNC services?
+Does a TNC vehicle need to have proof of a safety inspection?
+Can a vehicle registered out of state be used for TNC services?
+Where should the trade dress be displayed on the vehicle?
+##EXPECTEDRESULTS
+businesses\tnc\vehicle-req.json
+##QUERY
+What does a commercial driver's license (CDL) allow you to operate?
+How long is a standard CDL valid for?
+How old must you be to get an intrastate CDL?
+How long is a Virginia CLP valid for?
+Can I hold a driver's license and a CDL at the same time?
+##EXPECTEDRESULTS
+licenses-ids\cdl\applying.json
+##QUERY
+What determines the class of a vehicle?
+If I hold a Class A license with the correct endorsements, what other classes of vehicles am I allowed to operate?
+What does a Class X CDL endorsement permit you to do?
+What does the 'B' restriction on a CDL mean?
+What are the requirements for obtaining an 'H' endorsement on a CDL?
+##EXPECTEDRESULTS
+licenses-ids\cdl\class.json
+##QUERY
+How many safe driving points can I be awarded for completing a commercial driver improvement course?
+How often can I be awarded safe driving points for completing a commercial driver improvement course?
+Who might be required or volunteer to attend a commercial driver improvement clinic?
+Where can I find commercial driver improvement clinics?
+How can I become an instructor for a commercial driver improvement clinic?
+##EXPECTEDRESULTS
+licenses-ids\cdl\clinic.json
+##QUERY
+What is the purpose of the Drug and Alcohol Clearinghouse?
+What happens if I have a prohibited status in the Clearinghouse?
+What steps are involved in the return to duty process?
+What is the role of a substance abuse professional (SAP) in the return to duty process?
+What is DMV’s role with the Drug and Alcohol Clearinghouse?
+##EXPECTEDRESULTS
+licenses-ids\cdl\dach.json
+##QUERY
+What happens if you receive an intrastate CDL when you are under age 20 and you renew at age 20 and have received one or more moving violations?
+What is the disqualification period for driving a commercial motor vehicle with a BAC of 0.04 or higher?
+What is the disqualification period if you are convicted of two serious violations within a three-year period?
+What is the penalty for violating an out-of-service order for the first conviction?
+What is the disqualification for a first offense railroad crossing violation?
+##EXPECTEDRESULTS
+licenses-ids\cdl\disqual.json
+##QUERY
+What documents are required for U.S. citizens or legal permanent residents when applying for a CDL?
+What birth documents are not accepted when applying for a CDL?
+If I have presented a required document to the DMV since January 1, 2004, do I need to present it again?
+What documents are required for applicants domiciled in a foreign jurisdiction when applying for a CDL?
+Is an unexpired Employment Authorization Document acceptable for REAL ID?
+##EXPECTEDRESULTS
+licenses-ids\cdl\docs.json
+##QUERY
+What are the minimum age requirements for obtaining a CDL?
+What are the requirements for holding a valid Virginia driver's license to be eligible for CDL skills tests?
+What are the vision screening requirements for commercial drivers?
+What evidence must I provide regarding my experience driving the type of vehicle I wish to drive for the on-road driving test?
+How long must I hold a commercial learner's permit before being eligible for CDL skills tests?
+##EXPECTEDRESULTS
+licenses-ids\cdl\eligibility.json
+##QUERY
+What test must I pass to receive or renew a Hazardous Materials Endorsement (HME)?
+What documentation is required to show proof of U.S. citizenship or immigration status when applying for or renewing a Hazardous Materials Endorsement (HME)?
+How long is the fingerprint-based background check valid for?
+What happens if the HME expires before I remove it?
+What is TWIC comparability?
+##EXPECTEDRESULTS
+licenses-ids\cdl\hazmat.json
+##QUERY
+What is the minimum age to hold a CDL in Virginia?
+Can I hold a Virginia-issued commercial driver license (CDL) AND a Virginia-issued photo ID at the same time?
+What are the restrictions for drivers under 21 years of age who are issued a CDL?
+What is the minimum age to transport hazardous materials?
+What are the commercial driver's license requirements for volunteer drivers of church buses?
+##EXPECTEDRESULTS
+licenses-ids\cdl\homepage.json
+##QUERY
+What is the address for the Richmond Central Test Site?
+What is the phone number for CDL Scheduling at the Middletown Weigh Station Central Site?
+What is the email address for Anthony Warren?
+What is the address for the NOVA Central Site?
+What is the cell phone number for Steve Ayers?
+##EXPECTEDRESULTS
+licenses-ids\cdl\locations.json
+##QUERY
+Where can I download the Commercial Driver's Manual?
+Where can I download the Virginia Supplement to the Commercial Driver's Manual?
+What format are the Commercial Driver's Manual and the Virginia Supplement to the Commercial Driver's Manual in?
+What software do I need to view and print the manuals?
+Where else can I get copies of the manuals besides online?
+##EXPECTEDRESULTS
+licenses-ids\cdl\manual.json
+##QUERY
+Who must self-certify?
+What is a medical examiner's certificate (MEC)?
+What is a medical examination report (MER)?
+Who is required to submit a medical examiner's certificate (MEC) to DMV?
+What happens if I do not self-certify or submit required medical documents?
+##EXPECTEDRESULTS
+licenses-ids\cdl\medical-faqs.json
+##QUERY
+What are the four categories of commercial motor vehicle (CMV) operation?
+If applying for an original, renewal, or replacement CDL/commercial learner's permit (CLP), what must you certify on your application?
+What medical documentation do you need to submit if you certify to one of the non-excepted categories?
+What is the fastest and easiest way to have your medical document(s) processed?
+Can the DMV accept the Medical Examination Report (MER) Form, MCSA-5875?
+##EXPECTEDRESULTS
+licenses-ids\cdl\medical.json
+##QUERY
+What exam must I pass to obtain a CLP?
+If I want to learn to drive a school bus, what exams do I need to take?
+How long must I hold a commercial learner's permit before I can get a Virginia CDL?
+Will I be given credit towards the 14-day CLP holding period for the time I held my out of state commercial learner's permit?
+What must I certify on the application for a commercial learner's permit?
+##EXPECTEDRESULTS
+licenses-ids\cdl\permit.json
+##QUERY
+What are the two options for renewing my driver's license?
+What is the deadline for obtaining a REAL ID to board a domestic flight?
+What can a standard driver's license be used for?
+Where can I renew my driver's license or CDL if I am required to visit a DMV customer service center?
+What happens if I renew my license after it expires?
+##EXPECTEDRESULTS
+licenses-ids\cdl\renew-driver.json
+##QUERY
+What do I need to do if my CDL or CLP has been lost or stolen?
+Besides a lost or stolen license, what are other reasons for replacing a CDL or CLP?
+If I need to wear glasses or contact lenses when driving, how can I get the vision restriction removed from my license after LASIK surgery?
+How much does it cost to replace a CDL?
+How much does it cost to replace a CLP?
+##EXPECTEDRESULTS
+licenses-ids\cdl\replacement.json
+##QUERY
+What does the CDL skills test consist of?
+In what type of vehicle must you take the skills test?
+How long does the 3-part skills test take?
+How much is the fee for a missed CDL skills test appointment?
+What must you do if you fail the road skills test three times?
+##EXPECTEDRESULTS
+licenses-ids\cdl\road-test.json
+##QUERY
+What is the Skill Performance Evaluation Certificate program?
+Who is the SPE program available to?
+Does Virginia DMV have permission to issue federal SPE certificates?
+Where can I obtain the application for the SPE certificate?
+Where do I submit the SPE certificate application?
+##EXPECTEDRESULTS
+licenses-ids\cdl\spe.json
+##QUERY
+What percentage of questions must I answer correctly to pass the general knowledge exam?
+Where can I find the information needed to prepare for the knowledge exam?
+How many times per business day may I take the CDL knowledge exam?
+What must I do if I fail the general knowledge exam three times?
+What endorsement requires Entry Level Driver Training (ELDT) to be completed before taking the knowledge exam?
+##EXPECTEDRESULTS
+licenses-ids\cdl\test.json
+##QUERY
+What is a third-party tester?
+What are the requirements for a business to become a third-party tester?
+Can governmental entities be third-party testers?
+Can third-party testers provide entry-level driver training (ELDT) to CDL applicants?
+##EXPECTEDRESULTS
+licenses-ids\cdl\third-test.json
+##QUERY
+Are CDL driver education programs approved by the DMV?
+How many hours of study must the commercial driver classroom component consist of?
+How many hours of study must the commercial driver in-vehicle component consist of?
+What happens if I fail the knowledge or behind-the-wheel examination three times?
+Where can I find a list of schools offering CDL training?
+##EXPECTEDRESULTS
+licenses-ids\cdl\training-schools.json
+##QUERY
+What is the Troops to Trucks℠ program?
+What documents are required to apply for the CDL Test Waiver?
+What are the eligibility requirements for exemption of both the knowledge and skills tests?
+What MOS codes qualify for a CDL Knowledge Test Waiver?
+What kind of assistance is offered to military members who lack experience operating heavy vehicles but who are interested in obtaining a Virginia CDL?
+##EXPECTEDRESULTS
+licenses-ids\cdl\troops-trucks.json
+##QUERY
+What happens if I fail the CDL knowledge or behind-the-wheel examination three times before February 7, 2022?
+If I failed the CDL knowledge test three times before February 7, 2022, what must I do?
+If I failed the CDL road test three times before February 7, 2022, what must I do?
+Where can I find a Virginia community college offering CDL Driver Training Course for Three Exam Failures?
+How can I report comments or concerns about the CDL course?
+##EXPECTEDRESULTS
+licenses-ids\cdl\vccs-schools.json
+##QUERY
+Which Virginia community colleges offer CDL training for applicants who have failed the CDL knowledge or road test three times?
+Where is Blue Ridge Community College located?
+What is the phone number for Mountain Empire Community College?
+What is the address of Tidewater Community College?
+Where is Wytheville Community College located?
+##EXPECTEDRESULTS
+licenses-ids\cdl\vccs.json
+##QUERY
+Where can I submit the Disabled Parking Plates or Placard Application (MED 10)?
+How much do temporary and permanent placards cost?
+Which medical professionals are authorized to certify my disability on the MED 10 form?
+What form is needed for organizations wishing to get disabled placards?
+As a veteran, what forms do I need to apply for a disabled veteran's license plate with the International Symbol of Access?
+##EXPECTEDRESULTS
+licenses-ids\disability\apply-assist.json
+##QUERY
+What are the three types of disabled parking placards available in Virginia?
+How long is a temporary disabled parking placard valid for in Virginia?
+How long is a permanent parking placard valid for?
+Is a physician's certification required to renew a permanent parking placard?
+What form must organizations use to obtain disabled placards or plates?
+##EXPECTEDRESULTS
+licenses-ids\disability\descrip.json
+##QUERY
+What is the name of the wireless electronic device available for hearing impaired customers?
+How can a hearing impaired customer and a DMV employee communicate in real time?
+Who provides interpreters for hearing impaired customers, and who covers the costs?
+How can a hearing impaired citizen contact DMV?
+What type of driver's license indicators are available?
+##EXPECTEDRESULTS
+licenses-ids\disability\hearing-assist.json
+##QUERY
+What parking options are available for customers with disabilities at the DMV?
+How can customers with disabilities request special assistance at a DMV Customer Service Center?
+What is the UbiDuo device and how does it assist customers with hearing impairments?
+How can I arrange for an interpreter to assist me during a transaction at the DMV?
+How do I request a medical indicator to be placed on my Virginia driver's license?
+##EXPECTEDRESULTS
+licenses-ids\disability\homepage.json
+##QUERY
+What are the different types of disabled parking placards and plates offered by the Virginia DMV?
+Where should the parking placard be displayed when the vehicle is parked in a disabled parking space?
+What must the placard holder carry and present to a law enforcement officer upon request?
+Are Virginia's disabled parking placards and plates valid in other states and countries?
+What are the potential consequences of misusing disabled parking placards or plates in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\disability\plates-assist.json
+##QUERY
+Where can I renew or replace my permanent disabled parking placards or plates?
+How early can I renew my permanent placard before it expires?
+Is a certification needed from a medical professional to renew or replace a permanent placard?
+How long are temporary disabled parking placards valid?
+How long are institutional/organizational disabled parking placards valid?
+##EXPECTEDRESULTS
+licenses-ids\disability\renewal.json
+##QUERY
+Are Virginia's disabled parking placards and plates valid in all 50 states?
+How long can I park in metered spaces with disabled parking privileges?
+What are the penalties for parking in a disabled space without displaying a disabled placard or plates?
+What are the penalties for creating or using a counterfeit copy of a disabled parking placard?
+Who can I call to report suspected misuse of disabled parking placards or plates?
+##EXPECTEDRESULTS
+licenses-ids\disability\rights.json
+##QUERY
+What steps has the Virginia DMV taken to ensure customer service centers comply with the Americans with Disabilities Act?
+How can customers with disabilities request special assistance at the DMV?
+What kind of assistance can a customer service representative provide to a customer with special needs?
+What happens if a special needs person requests to take the driver's exam?
+##EXPECTEDRESULTS
+licenses-ids\disability\visit-assist.json
+##QUERY
+What is the Visor Alert program?
+Who are the organizations involved in the Visor Alert program?
+Where should the Visor Alert card be placed in the car?
+What should a motorist do during a traffic stop when using the Visor Alert card?
+How can someone obtain a Visor Alert card?
+##EXPECTEDRESULTS
+licenses-ids\disability\visor-alert.json
+##QUERY
+What resources are available for preparing for Virginia DMV tests?
+What language options are available for the Virginia Driver's Manual?
+Does the Virginia DMV offer practice exams?
+##EXPECTEDRESULTS
+licenses-ids\exams\homepage.json
+##QUERY
+What does the knowledge exam test you on?
+Where can you take the knowledge exam?
+What is unlawful while taking the knowledge exam?
+What happens if you fail the knowledge exam three times?
+In what languages are the Driver, CDL, and Motorcycle knowledge exams available?
+##EXPECTEDRESULTS
+licenses-ids\exams\know-exam.json
+##QUERY
+In what formats is the Virginia Driver's Manual available?
+What devices are the interactive study guide designed for?
+What does the interactive study guide contain to help users prepare for the driver and general knowledge tests?
+In what format is the manual available for download?
+What software is required to view and print the PDF manual?
+##EXPECTEDRESULTS
+licenses-ids\exams\manual-es.json
+##QUERY
+Is the Virginia Driver's Manual available in Spanish?
+Does the Driver's License Study Guide include practice questions?
+What topics are covered in the Virginia Driver's Manual?
+Does the Driver's Manual include information on traffic signs?
+Does the Virginia Driver's Manual have practice test questions in English?
+##EXPECTEDRESULTS
+licenses-ids\exams\manual.json
+##QUERY
+Where can I find information to study for the driver's license knowledge test?
+What should I study to prepare for the motorcycle endorsement test?
+Where can I find the materials to study for the Dealer/Salesperson license?
+Is knowledge testing available at high schools?
+What should I study to prepare for the Dealer Operator License?
+##EXPECTEDRESULTS
+licenses-ids\exams\practice-exam.json
+##QUERY
+What criteria must I meet to take a road skills test?
+What must the vehicle I provide for the test have?
+What do I need to bring with me to the test?
+When should I arrive for my scheduled road skills testing appointment?
+Can my translator/interpreter be in the car?
+##EXPECTEDRESULTS
+licenses-ids\exams\road-skills-test.json
+##QUERY
+What documents do I need to bring to get an adult ID card?
+What information is displayed on an adult ID card?
+What is the cost of an adult ID card?
+How long are adult ID cards valid for individuals required to register with the Virginia State Police Sex Offender and Crimes Against Children registry?
+What medical indicators can be placed on my ID card?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\adult-id.json
+##QUERY
+Where can I obtain an ID card for my child?
+What information is displayed on a child ID card?
+How much does a child ID card cost?
+What do I need to bring to get a child ID card?
+Can I request medical indicators to be placed on my child's ID card?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\child-id.json
+##QUERY
+What documents are required when applying for an ID card if I do not have a valid Virginia driver's license?
+How long is an adult ID card valid for?
+How can I pay for the ID card fee?
+What is the minimum and maximum amount of years that an adult ID card is valid for?
+What form should I complete if I am applying for an ID card for a child under the age of 15?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\get-id.json
+##QUERY
+What does legal presence mean?
+When is proof of legal presence required?
+Does the DMV accept the Employment Authorization Document (I-766) as proof of legal presence for REAL ID credentials?
+If I lose my license, permit, or ID card, will I need to prove legal presence when requesting a duplicate?
+What document outlines the individuals eligible under state law to apply for a standard Virginia driver's license or ID card and the corresponding acceptable documents to show legal presence?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\legal-presence.json
+##QUERY
+Can I exchange my valid Virginia license for an ID card?
+What is the cost of the identification card for individuals under the age of 70?
+What is the cost of the identification card for individuals age 70 and over?
+How can I apply to exchange my driver’s license for an identification card?
+What form must I complete to exchange my license?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\license-exchange.json
+##QUERY
+What does the Hearing Impaired ID indicate?
+What is a driver's license indicator for hearing-impaired drivers?
+What is the purpose of the Visor Alert program?
+Who is eligible to obtain a hearing impaired identification card?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\photo-id.json
+##QUERY
+What is an ID privilege card?
+What documents are required to obtain an ID privilege card?
+How much does an ID privilege card cost?
+How long is an ID privilege card valid for?
+Can a child obtain an ID privilege card?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\privilege.json
+##QUERY
+How far in advance of the expiration date can I renew my Virginia ID card?
+What is the cost to renew a Virginia ID card?
+If I am authorized to be in the U.S. temporarily and have been issued a limited duration ID card, can the ID be renewed?
+What form do I need to complete to renew my ID card at a customer service center?
+What form can I use to notify the DMV of a name or address change?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\renewing-identification-card.json
+##QUERY
+How much does a replacement ID card cost?
+Can I replace my ID card online if my current ID card was issued before January 1, 2004?
+If I have moved, what should I do to ensure that I receive my replacement ID card?
+What form do I need to complete to get a replacement ID card at a customer service center?
+If I hold a driver's license and an ID card, which one do I need to surrender?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\replacement-id.json
+##QUERY
+What types of ID cards are available at the Virginia DMV?
+What are the processes for obtaining, renewing, and replacing an ID card in Virginia?
+Is there a specific ID card available for veterans in Virginia?
+Is there a specific ID card available for the hearing impaired in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\services.json
+##QUERY
+What two agencies have partnered to allow Virginians to order replacement Social Security cards online?
+What website can Virginians visit to apply for a replacement Social Security card online?
+What are some of the requirements to apply for a replacement Social Security card online?
+What document must a participant have to apply for a replacement social security card online?
+Can someone who needs to change their name on their social security card apply for a replacement online?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\ssn-replace.json
+##QUERY
+What are the eligibility requirements to add a veteran indicator to my Virginia driver's license or ID card?
+How can I apply for a veteran indicator on my Virginia driver's license or ID card?
+How do I submit my veteran service proof documents if I apply for a veteran indicator online?
+Is my DMV Veteran ID card still valid?
+What should I do if I lost my DD214?
+##EXPECTEDRESULTS
+licenses-ids\id-cards\vet-id.json
+##QUERY
+What does the DMV do when you are convicted of a traffic violation?
+How long do demerit points stay on your record?
+Are insurance company points related to DMV demerit points?
+How long do convictions remain on your record?
+Where can I find a full description of violations and penalties?
+##EXPECTEDRESULTS
+licenses-ids\improvement\assess.json
+##QUERY
+How often can I be awarded safe driving points after completing a driver improvement clinic?
+What should commercial drivers do if required to attend a driver improvement clinic?
+What happens if I am convicted of a demerit point offense while on probation?
+What documentation is required to support a request for restricted driving privileges?
+What happens if I receive demerit points for a violation during the 18-month control period?
+##EXPECTEDRESULTS
+licenses-ids\improvement\homepage.json
+##QUERY
+What happens if I am convicted of a demerit-point violation when I am 18 or 19?
+What happens if I accumulate 8 demerit points in 12 months and am over 18?
+What happens if I accumulate 12 demerit points in 12 months?
+What happens if I accumulate 18 demerit points in 12 months?
+What kind of driver improvement clinic is required?
+##EXPECTEDRESULTS
+licenses-ids\improvement\over-18.json
+##QUERY
+Do demerit points get assigned to my record for traffic convictions incurred in other states?
+Will the number of years that a conviction stays on my DMV record be listed beside the violation?
+If a violation stays on my record permanently, will it have an asterisk next to it?
+Is it possible for the violations listed to change without notice?
+##EXPECTEDRESULTS
+licenses-ids\improvement\points-3.json
+##QUERY
+Do demerit points get assigned to my record for traffic convictions in other states?
+Is the number of years that a conviction stays on my DMV record in parentheses beside each violation?
+If a violation has an asterisk, does that mean the conviction remains on my record permanently?
+Is the list of violations subject to change without notice?
+##EXPECTEDRESULTS
+licenses-ids\improvement\points-4.json
+##QUERY
+Are the number of years a conviction stays on my DMV record indicated next to each violation?
+What does an asterisk (*) indicate regarding convictions on my record?
+Will demerit points be assigned to my record for traffic convictions incurred in other states?
+Is it possible for the listed violations to change without notice?
+##EXPECTEDRESULTS
+licenses-ids\improvement\points-6.json
+##QUERY
+How often does a vehicle crash occur in Virginia?
+What are the odds that you will be involved in a crash during your lifetime?
+What does the Virginia Department of Motor Vehicles' Driver Improvement Program do?
+What does the Driver Improvement Program help educate drivers about?
+What are the age-related differences in traffic violations?
+##EXPECTEDRESULTS
+licenses-ids\improvement\points.json
+##QUERY
+How many safe driving points can I accumulate?
+How long are demerit points valid for?
+How can I earn safe driving points?
+When are annual safe driving points awarded?
+What happens if I am required by the court to attend a driver improvement clinic?
+##EXPECTEDRESULTS
+licenses-ids\improvement\system.json
+##QUERY
+What happens if I am convicted of a demerit-point traffic violation under age 18?
+What happens after my second demerit point conviction under age 18?
+What happens after my third demerit point conviction under age 18?
+How many safe driving points will I receive if I voluntarily complete a driver improvement clinic?
+How can the driver improvement clinic requirement be satisfied?
+##EXPECTEDRESULTS
+licenses-ids\improvement\under-18.json
+##QUERY
+What is the minimum length of the parent/student driver education component?
+What topics are emphasized in the 90-minute parent/student driver education component curriculum?
+In which planning district must the 90-minute course be completed in-person with a parent or guardian?
+Under what circumstances are parents and students exempt from the 90-minute parent/student driver education component?
+##EXPECTEDRESULTS
+licenses-ids\learners\90min.json
+##QUERY
+What are the two steps to applying for a learner’s permit?
+What documents are needed to apply for a learner's permit?
+How old must you be to get a learner's permit?
+How long do you need to hold a learner’s permit if you are age 18 or older and have never held a license?
+If you are temporarily authorized to be in the U.S., what kind of learner's permit will you receive?
+##EXPECTEDRESULTS
+licenses-ids\learners\apply.json
+##QUERY
+How long are each of the driver's education sessions?
+Where can I take driver's education?
+If I am under 18, how long must I hold my learner's permit before I can get my driver's license?
+What is the length of the parent/teen component of the driver's education curriculum?
+If I am over 18 and have never held a license, what are my options for getting a driver's license?
+##EXPECTEDRESULTS
+licenses-ids\learners\ed-reqs.json
+##QUERY
+Where can I find information about driver education?
+Where can I find resources for teen drivers?
+How do I apply for a learner's permit in Virginia?
+Where can I find teen driving frequently asked questions?
+Where can I find information about teen driving restrictions?
+##EXPECTEDRESULTS
+licenses-ids\learners\homepage.json
+##QUERY
+Where can a student complete the classroom portion of driver's education?
+What does the 90-minute parent/teen course emphasize?
+What must a parent attach to a Home-Schooled In-Car Driver Education Parental Authorization Application (HS-1)?
+What happens if a home-schooled student fails the Driver General Knowledge or Behind the Wheel test three times?
+Where can I find information regarding the In-Car portion of the course?
+##EXPECTEDRESULTS
+licenses-ids\learners\homeschool.json
+##QUERY
+What is the remote testing program a partnership with?
+Is there a cost for schools to participate in the remote testing program?
+What do schools need to participate in the remote testing program?
+What does DMV do to help schools set up the remote testing program?
+What do students receive after successfully completing the knowledge test?
+##EXPECTEDRESULTS
+licenses-ids\learners\remote-test.json
+##QUERY
+What are the curfew restrictions for drivers under 18 in Virginia?
+Under what circumstances can a driver under 18 drive between midnight and 4 a.m. in Virginia?
+What are the passenger restrictions for drivers under 18 who have held their license for less than one year?
+Are there any exceptions to the passenger restrictions for drivers under 18?
+What are the penalties for violating curfew or passenger restrictions in Virginia?
+When are you allowed to use a cell phone while driving?
+Are there any exceptions to the passenger restrictions for learner's permit holders?
+##EXPECTEDRESULTS
+licenses-ids\learners\restrictions.json
+##QUERY
+How should I prepare for the knowledge exam for my learner's permit?
+What is the Virginia Driver Training Certificate?
+Is there a curfew for teen drivers in Virginia?
+Can I lose my driving privileges if I commit traffic violations as a minor?
+Can driver education be taught at home if I am homeschooled?
+##EXPECTEDRESULTS
+licenses-ids\learners\teen-faq.json
+##QUERY
+Where can I find information about driver education requirements?
+Where can I take a sample knowledge exam?
+Where can I find information about teen driver safety?
+How do I renew my vehicle registration?
+How can I replace my driver's license?
+##EXPECTEDRESULTS
+licenses-ids\learners\teen.json
+##QUERY
+How old must you be to apply for a driver's license?
+How long is a standard Virginia driver's license valid for?
+What documents are needed when applying for a driver's license?
+What tests are required to get a driver's license in Virginia?
+What is the fee for a standard eight-year driver's license?
+##EXPECTEDRESULTS
+licenses-ids\license\applying.json
+##QUERY
+Is it legal for someone other than the Department of Motor Vehicles to sell a driver's license?
+What is the penalty for distributing fake driver's licenses?
+What is the penalty for driving without a license in Virginia?
+What is the penalty for providing false information when trying to obtain a driver's license?
+Who is legally authorized to issue driver's licenses in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\license\counterfeit.json
+##QUERY
+Can the DMV refuse to issue a driver's license if someone is wearing a disguise for their photograph?
+What are some examples of disguises that are not allowed for DMV photos?
+Can you wear hats for medical reasons in a DMV photo?
+If I wear a veil for religious reasons, do I have to adjust it for the DMV photo?
+What are some examples of facial distortions that are not allowed for DMV photos?
+##EXPECTEDRESULTS
+licenses-ids\license\disguises.json
+##QUERY
+How long do new residents have to obtain a Virginia driver's license?
+If I am a full-time student and employed, am I considered a resident of Virginia?
+If I am a non-resident temporarily living in Virginia, how long can I drive with my home state's driver's license and license plates?
+What documents are needed to prove eligibility when applying for a driver's license?
+What is the minimum age to get a learner's permit in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\license\eligibility.json
+##QUERY
+What is the name of the computer system developed by the National Association of Public Health Statistics and Information Systems (NAPHSIS)?
+Where can I access EVVE?
+What do I need to access EVVE through DMV's website?
+If I need a physical copy of my birth certificate, where should I go if I was born in Virginia?
+Is the EVVE service available in all states?
+##EXPECTEDRESULTS
+licenses-ids\license\evve-info.json
+##QUERY
+What is the earliest birth year that Alabama participates in EVVE?
+Does the Online EVVE service provide a paper birth certificate?
+If my state is not listed, can I use the Online EVVE service?
+What years are accepted from the U.S. Virgin Islands?
+##EXPECTEDRESULTS
+licenses-ids\license\evve.json
+##QUERY
+What form do I need to complete to exchange a driver's license from a foreign country?
+If I am exchanging my license from a reciprocal country, what documents will I need to verify my identity?
+If I hold a foreign license from a non-reciprocal country, what tests must I pass?
+What countries have reciprocal agreements with Virginia?
+If I choose not to submit form DL7, what testing requirements must I meet?
+##EXPECTEDRESULTS
+licenses-ids\license\exchange-foreign-dl.json
+##QUERY
+What should I do if I believe someone is using a driver's license or ID with my name and information?
+How does DMV protect my identity?
+What is an Identity Theft Passport and how do I apply for one?
+How can I check my driving record for fraudulent activity?
+Why does DMV no longer issue driver's licenses and ID cards that display Social Security numbers (SSN)?
+##EXPECTEDRESULTS
+licenses-ids\license\identity-theft.json
+##QUERY
+Are Virginia driver's licenses issued before April 24, 2023 still valid?
+Does Virginia issue a REAL ID compliant identification card for individuals over 21?
+Does Virginia issue a non-REAL ID compliant driver's license for individuals under 21?
+Does Virginia issue a REAL ID compliant Commercial Driver's License for individuals over 21?
+##EXPECTEDRESULTS
+licenses-ids\license\newlook2023.json
+##QUERY
+What DMV products can I track?
+Do I need to log in to see the status of my license plate?
+How do I check the delivery status of my driver's license?
+What should I do if my product is returned to the DMV?
+##EXPECTEDRESULTS
+licenses-ids\license\tracking.json
+##QUERY
+If I am temporarily outside of the U.S., what documents can I use as proof of qualifying reason?
+If I am a U.S.-based student, what documents can I provide?
+If applying by mail, how many proofs of Virginia residency documents must I provide?
+What form must I complete and sign to request a replacement license?
+What is the replacement fee?
+##EXPECTEDRESULTS
+licenses-ids\license-extension\contractor.json
+##QUERY
+If my expired license has been lost, stolen, damaged or mutilated, can a duplicate license be issued?
+What form do I need to complete and sign for a diplomatic extension of my driver's license?
+If I want to apply to register to vote, can I do so when I complete the application form?
+How soon after returning to Virginia, do I need to visit a DMV customer service center to renew my license?
+##EXPECTEDRESULTS
+licenses-ids\license-extension\diplomat.json
+##QUERY
+How long are driver's license extensions granted for in Virginia?
+If my request for an extension is approved, what will I receive in the mail?
+What form is required to apply for a driver's license extension?
+What documentation is required to apply for a driver's license extension?
+Is there a fee for a license extension in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\license-extension\homepage.json
+##QUERY
+How can active-duty military personnel temporarily assigned outside of Virginia apply for a military extension of their driver's license?
+What form is required to apply for a military extension of a driver's license?
+What documents are required to apply for a military extension as a spouse or dependent of an active duty member?
+What will DMV issue once they receive the required documents for a military extension?
+Within how many days of returning to Virginia must you renew your driver's license?
+##EXPECTEDRESULTS
+licenses-ids\license-extension\military.json
+##QUERY
+At what age must drivers appear in person at a DMV customer service center to renew their driver's license?
+What type of screening is required for drivers age 75 or older when renewing their license?
+Where can I find more information about license renewal for drivers 75 and older?
+##EXPECTEDRESULTS
+licenses-ids\mature\homepage.json
+##QUERY
+Do I have to be a Virginia resident to title and register a vehicle in Virginia?
+Does a vehicle have to be titled in Virginia in order to be registered in Virginia?
+Do I have to get a Virginia driver's license while I am stationed in Virginia?
+If I live off base or off post, what documents will I need to verify proof of address to get a Virginia title and register a vehicle?
+What sales taxes are required when purchasing a vehicle in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\military\faq.json
+##QUERY
+Does the Virginia DMV have a guide for members of the Armed Forces?
+What is the Troops to Trucks program?
+Can veterans get discounts at retail locations and restaurants around Virginia?
+How do I change my address with the Virginia DMV?
+How can I renew my driver's license online?
+##EXPECTEDRESULTS
+licenses-ids\military\homepage.json
+##QUERY
+What are the Class M designations that allow you to operate a motorcycle in Virginia?
+If I complete a Virginia Rider Training Program course, do I need to complete the motorcycle knowledge exam or road skills test?
+How long is the motorcycle class valid for, and how much does it cost?
+What do I need to do if I want a driver's license that allows me to operate only a motorcycle?
+If I hold a valid out-of-state driver's license and complete the Virginia Rider Training Program, am I eligible for a Virginia motorcycle-only license?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\getting.json
+##QUERY
+What resources are available for motorcycle operators in Virginia?
+Where can I find information about the Virginia Rider Training Program?
+Where can I find the Motorcycle Safety FAQs?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\homepage.json
+##QUERY
+What two exams must I pass to obtain my motorcycle license?
+How many questions are on the motorcycle knowledge exam?
+What should I study to prepare for the motorcycle knowledge exam?
+What happens if I use my cell phone while taking the knowledge exam?
+Is it legal to attempt to get a copy of the motorcycle knowledge exam?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\knowledge-exam.json
+##QUERY
+How old must you be to obtain a motorcycle learner's permit?
+How long must you hold a motorcycle learner's permit if you are over 18?
+What exams must you pass to obtain a motorcycle learner's permit?
+What kind of protection must you wear when operating a motorcycle with a learner's permit?
+Can you carry passengers with a motorcycle learner's permit?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\learners.json
+##QUERY
+What designation must a Virginia driver's license have to operate a motorcycle?
+What must motorcyclists in Virginia wear?
+What must motorcycle operators wear in addition to a helmet?
+What does Virginia law define a motorcycle as?
+What must you do if you own and operate a motorcycle?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\operate.json
+##QUERY
+What documents do I need to provide to prove my active member status in the U.S. Armed Forces?
+If I am a spouse or dependent of an active duty member, what documents do I need to submit?
+How much is the replacement fee for the motorcycle classification?
+Where do I mail the required documents?
+What happens if I fail to provide any of the requested information?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\out-state.json
+##QUERY
+What items must I have with me when I arrive for the motorcycle skills test?
+What does the motorcycle road skills test include?
+Under what circumstances will the examiner stop the motorcycle skills test?
+Under what circumstance will the DMV waive the road skills test?
+What fees are associated with completing the motorcycle skills test and earning a Class “M2” or “M3” designation?
+##EXPECTEDRESULTS
+licenses-ids\motorcycle\skills-test.json
+##QUERY
+What can I do to save lives?
+How will I be asked about organ donation?
+How can I change my organ donor status?
+Will my decision to become an organ/tissue donor affect my driving privileges?
+Who should I share my decision with?
+##EXPECTEDRESULTS
+licenses-ids\organ-donation\homepage.json
+##QUERY
+How much is the fee for driving without insurance in Virginia?
+How long do I need to provide proof of financial responsibility?
+What are the eligibility requirements for the payment plan?
+Can I make payments towards my balance at any time?
+What happens if I miss a payment?
+##EXPECTEDRESULTS
+licenses-ids\payment-plan-program\homepage.json
+##QUERY
+What are the benefits of having a REAL ID compliant license or ID card?
+If I do not have a REAL ID compliant credential, what can I use to board a domestic air flight beginning May 7, 2025?
+Does my minor child need a REAL ID compliant credential in order to board a plane beginning May 7, 2025?
+What does a REAL ID compliant license/ID card look like?
+What do I do if the name or other information on my birth certificate does not match the information on my driver’s license or ID card?
+##EXPECTEDRESULTS
+licenses-ids\real-id\faq.json
+##QUERY
+What is the date that REAL ID will be required to board a domestic flight or enter a secure federal facility or military base?
+What documents are needed when applying for a REAL ID?
+If I do not get a REAL ID, what can I use as an alternate form of federally accepted identification?
+What are some uses for a standard license?
+Is REAL ID mandatory in Virginia?
+##EXPECTEDRESULTS
+licenses-ids\real-id\homepage.json
+##QUERY
+What are the requirements to qualify for Virginia escort vehicle driver certification?
+How do I apply for Virginia escort vehicle driver certification?
+How much does an original escort vehicle driver certification cost?
+How long is the escort vehicle driver certification valid for?
+##EXPECTEDRESULTS
+licenses-ids\training\applying.json
+##QUERY
+What is the phone number for 2020 CDL Driving School?
+What is the website for A + COMMERCIAL DRIVING SCHOOL, LLC?
+Where is CDS Tractor Trailer Training located in Woodford?
+What is the website for Dudley's Driving Center Inc. CDL School?
+What is the email address for Shipper's Choice of Virginia, Inc. in Centerville?
+##EXPECTEDRESULTS
+licenses-ids\training\class-a-third-list.json
+##QUERY
+What is the purpose of training, testing, and certifying escort vehicle drivers?
+How many hours of classroom training are required to be certified as an escort vehicle driver?
+Where can I take the escort vehicle driver certification knowledge test?
+What are some of the specific objectives of the escort vehicle driver training program?
+What are the benefits of properly trained escort vehicle drivers?
+##EXPECTEDRESULTS
+licenses-ids\training\descrip.json
+##QUERY
+How many classroom sessions are included in the driver education program?
+How long must I hold my Virginia learner's permit if I am under 18?
+If I am over 18, what are my options for getting a driver's license if I've never held one before?
+How long is each session of driver's training?
+What topics are covered in the driver education program?
+##EXPECTEDRESULTS
+licenses-ids\training\driver-training-schools.json
+##QUERY
+What is a driver training school?
+What is the DMV responsible for regarding driver training schools?
+What is the objective of the DMV regarding driver training schools?
+What are the requirements for entry level driver training?
+What endorsements require meeting the Federal Motor Carrier Safety Administration's minimum training requirements?
+##EXPECTEDRESULTS
+licenses-ids\training\dts-become.json
+##QUERY
+How long is the Driver's Manual course?
+Who is the Driver's Manual course designed for?
+How can I take the Driver's Manual course?
+How long does the licensing process generally take?
+What is the email to contact the Driver Training Work Center?
+##EXPECTEDRESULTS
+licenses-ids\training\dtsmanual-license.json
+##QUERY
+How many hours of instruction are included in the online driver education program?
+If I am under 18, am I required to complete the 90-minute parent/teen component?
+What documents are required to bring to the test site on the day of testing?
+What should I do if I pass the final exam?
+What is an unaccompanied minor?
+##EXPECTEDRESULTS
+licenses-ids\training\dtsonline.json
+##QUERY
+What are the minimum training requirements drivers need to meet to obtain a Class A or Class B commercial driver's license (CDL) for the first time?
+What training is required for applicants applying for a Class A or B CDL or the P or S endorsement?
+If I held a valid CLP issued prior to February 7, 2022, am I subject to the ELDT requirements?
+What topics are included in the CDL applicant training?
+Where can I find a list of acceptable training providers?
+##EXPECTEDRESULTS
+licenses-ids\training\entry-level.json
+##QUERY
+What is an escort vehicle?
+What is the role of the escort vehicle driver?
+What states have reciprocity agreements with Virginia for escort vehicle driver certification?
+What is the purpose of the escort vehicle and driver training?
+What are escort vehicles also referred to as?
+##EXPECTEDRESULTS
+licenses-ids\training\escrt.json
+##QUERY
+What is the purpose of an escort vehicle and driver?
+What are the benefits of having a trained escort vehicle driver?
+How long is a Virginia escort vehicle driver certification valid?
+If I am not from Virginia, can I still get a Virginia escort vehicle driver certification?
+What should I do if my escort vehicle driver certification card is lost, stolen, or destroyed?
+##EXPECTEDRESULTS
+licenses-ids\training\faqs-drv.json
+##QUERY
+What is a Driver Privilege Card?
+If a student has a Driver Privilege Card or permit, do they need to complete a road skills test administered by the DMV?
+Why do Driver Privilege Card applicants have to complete a DMV road skills test?
+Can I issue a Driver Training Certificate to a Driver Privilege Card applicant?
+Can a Driver Privilege Card applicant use a Driver Training Certificate to waive the Learner’s Permit Holding Period?
+##EXPECTEDRESULTS
+licenses-ids\training\faqs-schools-training-driver-privilege-card-dpc.json
+##QUERY
+What is an escort vehicle?
+What equipment is required to be carried on the vehicle?
+Will anyone check escort vehicles for the proper equipment?
+What is the minimum fine for an escort vehicle not having the proper equipment?
+Will escort vehicles be required to have commercial insurance or would a homeowner umbrella meet the insurance requirement?
+##EXPECTEDRESULTS
+licenses-ids\training\faqs-veh.json
+##QUERY
+What is an escort vehicle driver and what are their responsibilities?
+What are the benefits of having trained escort vehicle drivers?
+How long is a Virginia escort vehicle driver certification valid?
+If I fail the escort vehicle driver certification test at the DMV, can I retake it?
+If my address changes, do I need to notify the DMV?
+##EXPECTEDRESULTS
+licenses-ids\training\faqs.json
+##QUERY
+Does the Virginia DMV license and regulate driving schools?
+Are driving schools inspected regularly?
+Do all high schools offer driver education?
+What endorsements require completion of theory and behind the wheel training prior to completing the CDL road skills exam?
+Do applicants applying for an HME need to complete the theory portion of ELDT prior to taking the Hazmat knowledge exam at DMV?
+##EXPECTEDRESULTS
+licenses-ids\training\homepage.json
+##QUERY
+Where is AAdvanced Driving School Company located?
+What is the website for Shenandoah Valley Driving School, Inc.?
+What is the phone number for Tann's Driving School?
+Where is Valley Driving School located?
+What is the website for A+ Driving School, LLC?
+##EXPECTEDRESULTS
+licenses-ids\training\in-person-manual.json
+##QUERY
+What should I do if I fail the general knowledge test three times?
+If I want to create my own curriculum, what must happen before I use it?
+Where can I find more information about opening an online driver training school?
+Are there any vendors that provide an online driver's manual course?
+##EXPECTEDRESULTS
+licenses-ids\training\manual-vendors.json
+##QUERY
+What minimum training requirements must be met for individuals applying to obtain a Class A or Class B commercial driver's license for the first time?
+Are there any exemptions to the Entry-Level Driver Training requirements?
+What are the requirements for ELDT instructors?
+What should applicants do before applying to become a training provider?
+How can I contact the Driver Training Work Center if I have any questions regarding ELDT or becoming a Training Provider?
+##EXPECTEDRESULTS
+licenses-ids\training\providers.json
+##QUERY
+Where should the completed applications, documents and fees be mailed?
+How much is the Class A Third-party Tester annual application fee?
+How much is the Class A Third-party Examiner annual fee for each examiner?
+What is the minimum amount of space needed to conduct the basic control skills maneuvers during the on-site inspection?
+What does "good standing" mean for a Class A driver training instructor or school?
+##EXPECTEDRESULTS
+licenses-ids\training\third-a-apply.json
+##QUERY
+What are the qualifications to be a Third Party Examiner at a Class A Driver Training School?
+What must be submitted to apply for certification as a Third Party Tester Examiner for a Class A Driver Training School?
+How much is the annual fee for each examiner?
+What offenses disqualify you from being a Third Party Examiner?
+If employed by a school board, what certification do you need to be a Third Party Examiner?
+##EXPECTEDRESULTS
+licenses-ids\training\third-a-exam.json
+##QUERY
+What is a Class A Driver Training School Third Party Tester?
+How much does the school remit to the department for each skills test administered?
+How long does the licensing process take?
+Where can I find a Class A Driver Training School Third Party Tester?
+Can students be required to be tested at their driver training school?
+##EXPECTEDRESULTS
+licenses-ids\training\third-a-test.json
+##QUERY
+What must a driver's license applicant do if they fail the knowledge exam or road skills test three times?
+Do classes taken at a driver improvement clinic meet the requirement of completing the applicable knowledge or in-vehicle component of a driver education course?
+How many fifty-minute periods of driving are required in the behind-the-wheel component of driver education after failing the road test three times?
+If you are over 18 and fail the knowledge test three times, what course can you take to satisfy the three-times failure?
+If you failed the CDL knowledge test prior to February 7, 2022, can you take the classroom component online?
+##EXPECTEDRESULTS
+licenses-ids\training\three-exam-failures.json
+##QUERY
+How do I become an escort vehicle driver trainer in Virginia?
+Where can I find registration information and course materials for the Train-the-Trainer course?
+What documents are required to apply to become an Escort Vehicle Driver Training provider?
+What are the requirements to become an EVDT instructor?
+What are the requirements for the place of business for an EVDT course provider?
+##EXPECTEDRESULTS
+licenses-ids\training\trainer.json
+##QUERY
+Where is 1 Stop Driver Improvement Clinic, LLC located?
+Where is 2020 Driving School located?
+What is the phone number for A Virginia Defensive Driver Improvement School?
+Where is Aim High Driving School located?
+What is the website for AAPEX Driving School Inc?
+##EXPECTEDRESULTS
+licenses-ids\training\training-sites.json
+##QUERY
+How often does the DMV transmit information to each lienholder?
+When will titles be printed during nightly production?
+What is the phone number for the work center?
+What transactions will transmissions include?
+Where is the Dealer Services Work Center located?
+##EXPECTEDRESULTS
+node\6896\6896.json
+##QUERY
+What is Virginia's Emergency Contact Program?
+Who is eligible for the Emergency Contact Program?
+How many emergency contacts can I add, modify, or delete?
+How can I enroll in the Emergency Contact Program?
+What is required to enroll a minor in the Emergency Contact Program?
+##EXPECTEDRESULTS
+records\emergency-contact\homepage.json
+##QUERY
+What should relatives and friends of deceased individuals do with disabled parking placards or plates?
+Where should relatives and friends return the disabled parking placards or plates?
+Can relatives exchange disabled plates for plates without disabled parking privileges?
+How long after DMV's notification do unreturned placards become invalid?
+What should you do if you are unable to locate the placard?
+##EXPECTEDRESULTS
+records\family-deceased\cancel.json
+##QUERY
+What documents are needed to clear a deceased person's driver's license or photo ID card record at the DMV?
+Where can I take the required documents to clear the deceased's record?
+If I cannot visit a DMV customer service center, how else can I clear the deceased's record?
+How can I obtain a death certificate?
+Why should I clear the deceased's driver's license or photo ID card record?
+##EXPECTEDRESULTS
+records\family-deceased\clear.json
+##QUERY
+What should I do with the deceased's driver's license or photo identification card record?
+How do I transfer vehicle ownership after someone has died?
+How do I transfer the vehicle registration after someone has died?
+What should I do with disabled placards or plates after the owner has died?
+##EXPECTEDRESULTS
+records\family-deceased\homepage.json
+##QUERY
+What should I submit to the DMV to receive a new title and registration in my name if I am a co-owner with the right of survivorship?
+What form do I need to fill out if the vehicle title is lost or stolen?
+What should I submit to the DMV to receive a new title and registration in my name if I am not a co-owner, and an executor or administrator has not been appointed?
+If I am inheriting a vehicle, will I be required to pay Sales and Use Tax?
+What form do I need to fill out if the vehicle title is damaged?
+##EXPECTEDRESULTS
+records\family-deceased\transfer-ownership.json
+##QUERY
+How long is the vehicle registration valid after the death of the registered owner?
+What section of the Vehicle Title Certificate needs to be completed if you inherit a vehicle?
+What form needs to be completed and submitted if you inherit a vehicle and plan to register it in Virginia?
+Is there a fee to register a vehicle in Virginia that has been inherited?
+##EXPECTEDRESULTS
+records\family-deceased\transfer-registration.json
+##QUERY
+What is considered a public record under the Virginia Freedom of Information Act (FOIA)?
+How can I submit a request for records from the Virginia DMV?
+How long does the DMV have to respond to my request?
+What are some common exemptions to FOIA requests?
+Can the DMV charge me for the records I request?
+##EXPECTEDRESULTS
+records\foia\homepage.json
+##QUERY
+Are DMV records available to the general public?
+Can companies share DMV records without authorization?
+How can non-governmental entities apply for electronic access to DMV records?
+How much does electronic access to DMV records cost per record?
+Are there any organizations that receive records free of charge?
+##EXPECTEDRESULTS
+records\non-governmental-access\homepage.json
+##QUERY
+How can I change my address with the Virginia DMV?
+What documents are needed to change my name on my Virginia DMV record?
+Is certification from a healthcare provider required to change my sex designation?
+When should I notify the DMV of my new Virginia address?
+What happens if I change my address to one outside of Virginia?
+##EXPECTEDRESULTS
+records\personal-information-updates\homepage.json
+##QUERY
+What information is needed to get a Prospective Purchaser Inquiry (PPI) summary?
+How much does a PPI cost?
+What details might be available in the PPI report?
+How can I get a PPI report?
+How long does it take to receive the report by mail?
+##EXPECTEDRESULTS
+records\ppi\homepage.json
+##QUERY
+What is the Driver's Privacy Protection Act (DPPA) and what type of information does it protect?
+Under what circumstances is DMV permitted to share customer information?
+What type of customer data may DMV not share without a court order?
+What measures does DMV take to protect customer data beyond legal agreements?
+Why does the DMV charge fees for releasing customer information?
+##EXPECTEDRESULTS
+records\release\homepage.json
+##QUERY
+What types of driving records are available from the Virginia DMV?
+How can I request a copy of my driving or vehicle record from the Virginia DMV?
+What information is needed to request a copy of my vehicle record?
+Where can I find the fees for driving record transcripts?
+What is the Driver Alert program?
+##EXPECTEDRESULTS
+records\request-driver-vehicle-record\homepage.json
+##QUERY
+Who is eligible to receive a complete crash report from the Virginia DMV?
+How much does it cost to request a crash report?
+How can I submit a request for a crash report?
+What information must be included in a written request for a crash report?
+How long does the DMV store crash data in the Traffic Records Electronic Data System?
+##EXPECTEDRESULTS
+records\request-police-crash-report\homepage.json
+##QUERY
+How many secondary documents are required to complete a transaction at the Virginia DMV if I don't have a primary document?
+Will the Virginia DMV accept photocopies of documents?
+Can I use an expired driver's license as a primary document?
+Is a check cashing card acceptable as a form of photo identification?
+Can I use an expired U.S. Passport as a secondary document?
+##EXPECTEDRESULTS
+records\vital\acceptable-records.json
+##QUERY
+Where can I purchase certified copies of Virginia vital records?
+Who is eligible to request a vital record certificate?
+How much does it cost to search for vital records at the DMV?
+What happens if the DMV cannot find my vital record?
+Where should I mail my Virginia Vital Records application?
+##EXPECTEDRESULTS
+records\vital\homepage.json
+##QUERY
+What vital records does the Virginia Vital Records Office maintain?
+Does each state maintain their own vital records?
+If I am looking for a birth record from another state, who should I contact?
+##EXPECTEDRESULTS
+records\vital\record-certificates.json
+##QUERY
+What is the cost for each driving record generated?
+What alerts can I request by enrolling in Driver Alert?
+How do I enroll in the Driver Alert program?
+How can I contact Use Agreement Services for more information?
+How much will I be invoiced for the application fee if I am a non-governmental entity?
+##EXPECTEDRESULTS
+records\voluntary\homepage.json
+##QUERY
+How can I apply to register to vote through the DMV?
+Does the DMV register me to vote?
+What happens after I submit my voter registration application through the DMV?
+How long does it take to receive a voter registration letter after my application is approved?
+Who do I contact if I have questions about voter registration or need to check the status of my application?
+##EXPECTEDRESULTS
+records\vote\homepage.json
+##QUERY
+What division manages Virginia's highway safety traffic records information system?
+What is the name of the traffic crash data system in Virginia that automates and centralizes crash information?
+What are some benefits of TREDS?
+Where can I find Virginia Traffic Crash Facts?
+##EXPECTEDRESULTS
+safety\crash-data\homepage.json
+##QUERY
+How can I find my state house district?
+Where can I view crash data summaries for a specific house district?
+Where can I find the Who's My Legislator page?
+##EXPECTEDRESULTS
+safety\crash-data\house-legis-district-crash-data.json
+##QUERY
+How do I find my state senate district?
+Where can I view crash data in a particular senate district?
+Where can I enter my address to find my legislator?
+Can I view crash data summaries for any of the senate districts?
+Is there crash data available for Senate District 1?
+##EXPECTEDRESULTS
+safety\crash-data\senate-legis-district-crash-data.json
+##QUERY
+What is the main goal of the Traffic Records Electronic Data System (TREDS)?
+How does TREDS support Virginia's efforts in highway safety?
+What does the state-of-the-art, automated data system centralizes?
+What is the comprehensive data housed in TREDS the foundation of?
+What can TREDS traffic crash information be used for?
+##EXPECTEDRESULTS
+safety\crash-data\traffic-records-electronic-data-system.json
+##QUERY
+What is the purpose of the Traffic Records Management, Reporting and Analysis Division?
+What services are provided by the Traffic Records Management, Reporting and Analysis Division?
+What is the purpose of Virginia's CVARS program?
+What is the Fatality Analysis and Reporting System (FARS)?
+What statewide traffic committees does the staff provide oversight management and analytical expertise to?
+##EXPECTEDRESULTS
+safety\crash-data\traffic-records-management.json
+##QUERY
+What is the purpose of the Virginia Highway Safety Office (VAHSO)?
+What types of organizations are eligible to apply for National Highway Traffic Safety Administration pass-through funding?
+How must applications for grant funds be submitted?
+What are some of the eligible project areas for funding?
+What should I do if I suspect fraud or misuse of federal grant funds?
+##EXPECTEDRESULTS
+safety\grants-management\homepage.json
+##QUERY
+What are the objectives of motorcycle safety programs funded by highway safety grants?
+What are examples of components that can be funded under motorcycle safety programs?
+What are some program evaluation measures used to assess the effectiveness of motorcycle safety programs?
+What data is collected to evaluate motorcycle safety programs?
+What are the types of motorcycle education courses that can be funded?
+##EXPECTEDRESULTS
+safety\grants-management\motorcycle-safety-funding.json
+##QUERY
+What are some examples of fundable components for occupant protection programs?
+What kind of programs can be implemented to encourage the use of child restraints?
+How can enforcement efforts be measured in occupant protection programs?
+What type of survey can be used to assess occupant protection?
+What data can be used to evaluate occupant protection programs?
+##EXPECTEDRESULTS
+safety\grants-management\occupant-protection-funding.json
+##QUERY
+What are some examples of components that can be funded to enhance pedestrian safety?
+What are some examples of program evaluation measures that can be used?
+What types of enforcement activities are fundable?
+What types of public information/education activities are fundable?
+##EXPECTEDRESULTS
+safety\grants-management\pedestrian-safety-funding.json
+##QUERY
+What are some examples of fundable components for reducing traffic crash loss?
+What are some examples of program evaluation measures related to speed-related crashes?
+What are some enforcement-related measures that can be used to evaluate program effectiveness?
+How can community programs be evaluated in terms of their reach to the target population?
+##EXPECTEDRESULTS
+safety\grants-management\reduce-aggresive-driving-funding.json
+##QUERY
+What are some examples of fundable components for reducing traffic crashes related to driving under the influence?
+What are some examples of program evaluation measures for alcohol-related traffic crashes?
+What are some examples of enforcement measures that can be used to reduce traffic crashes related to driving under the influence?
+What are some examples of public information and education measures that can be used to reduce traffic crashes related to driving under the influence?
+What is the time frame during which nighttime crashes resulting in fatalities and injuries are measured?
+##EXPECTEDRESULTS
+safety\grants-management\reduce-impaired-driving-funding.json
+##QUERY
+What are some examples of fundable projects related to highway safety?
+What kind of studies can be conducted regarding fixed objects and roadside hazards?
+What is the objective of identifying locations with high crash incidence?
+What is the purpose of creating multidisciplinary teams in the context of highway safety?
+What kind of training can be provided to traffic engineers and engineering technicians?
+##EXPECTEDRESULTS
+safety\grants-management\roadway-safety-funding.json
+##QUERY
+Who is eligible to apply for Virginia Highway Safety Office (VAHSO) grant funding?
+What is the funding period for approved applications?
+When does VAHSO announce the annual request for applications?
+When is the due date for submitting an application for funding?
+Are there any mandatory requirements for applying for a grant?
+##EXPECTEDRESULTS
+safety\grants-management\safety-grant-faqs.json
+##QUERY
+What are the key objectives of the highway safety program?
+What are some examples of fundable components under this highway safety program?
+What are some examples of program evaluation measures used to assess the effectiveness of highway safety strategies and projects?
+How does the program aim to improve highway safety?
+What types of activities are covered under personnel funding?
+##EXPECTEDRESULTS
+safety\grants-management\traffic-record-funding.json
+##QUERY
+What is the mission of Virginia's Traffic Records Coordinating Committee (TRCC)?
+What is the goal of the 408 Strategic Plan for Traffic Safety Information Systems?
+What is the role of the Virginia Surface Transportation Safety Executive Committee (STS)?
+What is the purpose of the Crash Outcome Data Evaluation System (CODES)?
+Who appoints the council members of the Crash Outcome Data Evaluation System (CODES)?
+##EXPECTEDRESULTS
+safety\resources\committees.json
+##QUERY
+Who is the Program Manager for the Bristol Area?
+What is the email address of Rick Clark?
+Where is the DMV Roanoke Customer Service Center located?
+Who is the Law Enforcement Liaison?
+What counties are served by the Bristol Area DMV?
+##EXPECTEDRESULTS
+safety\resources\contacts-bristol.json
+##QUERY
+Who is the Program Manager for the Fairfax Area?
+Where is the DMV Tappahannock Customer Service Center located?
+What is the email address for Seppo Karkkainen?
+Which counties are served by the Fairfax Area DMV?
+Which cities are served by the Fairfax Area DMV?
+##EXPECTEDRESULTS
+safety\resources\contacts-fairfax.json
+##QUERY
+Who is the Program Manager for the Portsmouth Area?
+What is the email address for Dwight Jenkins?
+Who is the Law Enforcement Liaison (LEL)?
+What is the address of the DMV Gloucester Customer Service Center?
+Which towns are served by the Portsmouth Area DMV?
+##EXPECTEDRESULTS
+safety\resources\contacts-portsmouth.json
+##QUERY
+Who is the Law Enforcement Liaison for the Richmond Area?
+What is the email address for Rebecca Overman?
+What counties does the Richmond Area DMV serve?
+What cities does the Richmond Area DMV serve?
+What towns does the Richmond Area DMV serve?
+##EXPECTEDRESULTS
+safety\resources\contacts-richmond.json
+##QUERY
+Who is the Program Manager for the Roanoke Area?
+What is the email address for Steve Williams?
+Who is the Law Enforcement Liaison?
+What counties are served in the Roanoke area?
+What cities are served in the Roanoke area?
+##EXPECTEDRESULTS
+safety\resources\contacts-roanoke.json
+##QUERY
+Which counties are in the Staunton District?
+Which cities are in the Staunton District?
+Which towns are covered by Rick Clark?
+Which towns are covered by Steve Williams?
+Which towns are covered by Rebecca Overman?
+##EXPECTEDRESULTS
+safety\resources\contacts-staunton.json
+##QUERY
+What is the form number for the Travel Expense Reimbursement Voucher?
+What form is used for Virginia Rider Training Program Training Site License applications?
+What is the form number for the Instructor/Rider Coach Application?
+What form is used for Highway Safety Project Grant - Line Item Budget Adjustment Requests?
+What form is used for Salary Reimbursement(s) Reporting?
+##EXPECTEDRESULTS
+safety\resources\forms.json
+##QUERY
+How often are the Highway Safety Summits held?
+Where can I find information from the 2022 Highway Safety Summit?
+Where can I find the FY 2024-2026 Highway Safety Plan?
+Where can I find the 2023 Highway Safety Annual Report?
+Where can I find resources for parents of young drivers?
+##EXPECTEDRESULTS
+safety\resources\homepage.json
+##QUERY
+What are some federal agencies related to traffic safety?
+What are some Virginia state agencies related to traffic safety?
+What are some non-profit organizations that partner with the Virginia DMV?
+What is the Commission on Virginia Alcohol Safety Action Program also known as?
+##EXPECTEDRESULTS
+safety\resources\other-contacts.json
+##QUERY
+Who presented on the Safe System Approach on Day 1?
+Who presented on Implicit Bias and Cultural Communication?
+Who presented on the Roanoke Ped Safety Media Campaigns?
+Who presented on Driving High and Asleep at the Wheel?
+Who presented on How Experiences of 2020 Impacted Media Outreach and Messaging?
+##EXPECTEDRESULTS
+safety\resources\presentations.json
+##QUERY
+Who is the Law Enforcement Liaison?
+Who is the contact person for Motorcycle Safety?
+Who is the Program Manager for Seat Belts, Airbags and Child Safety Seats?
+Where is the Roanoke Customer Service Center located?
+Who is the Program Manager for Speed and Aggressive Driving?
+##EXPECTEDRESULTS
+safety\resources\safety-contacts.json
+##QUERY
+Where was the Virginia DMV Highway Safety Summit held?
+When was the Virginia DMV Highway Safety Summit?
+What topics were covered at the summit?
+Who was invited to attend the summit?
+##EXPECTEDRESULTS
+safety\resources\summit22.json
+##QUERY
+What part of the vehicle directly contacts the road?
+What does maintaining your tires affect?
+How often should you check your tires for wear and damage?
+What can you use to check your tires for wear?
+Where can you find the recommended PSI for your tires?
+##EXPECTEDRESULTS
+safety\resources\tire-safety-tips.json
+##QUERY
+What is the title of the document regarding sober driving from the DMV Highway Safety Office?
+What administration provides the 'Take Three Seconds to Live' document?
+What department provides the 'Focus on Driving' document?
+##EXPECTEDRESULTS
+safety\resources\videos.json
+##QUERY
+What are the steps to take when selling or donating a Virginia-titled vehicle?
+What are the steps to take when buying or receiving a Virginia-titled vehicle?
+Where can I research a vehicle's history before buying it?
+How do I notify the DMV that I have sold, traded, or donated a vehicle?
+What should I do with the license plates after selling a vehicle?
+##EXPECTEDRESULTS
+vehicles\buy-sell\homepage.json
+##QUERY
+How much does the E-ZPass On-the-Go kit cost?
+How do I register my E-ZPass transponder?
+What information is needed to register an E-ZPass transponder?
+What are the two types of transponders offered at the DMV?
+Where can I return a malfunctioning E-ZPass transponder?
+##EXPECTEDRESULTS
+vehicles\ez-pass\homepage.json
+##QUERY
+Where can I purchase an E-ZPass On-the-Go kit?
+Do all DMV Customer Service Centers sell both E-ZPass Standard and E-ZPass Flex?
+Do all DMV Select Partners sell both E-ZPass Standard and E-ZPass Flex?
+Can I purchase an E-ZPass at the Arlington DMV Select?
+Does the Chester DMV customer service center sell E-ZPass Flex?
+##EXPECTEDRESULTS
+vehicles\ez-pass\locations.json
+##QUERY
+What types of dealers does the Virginia DMV license?
+Who administers the laws and regulations pertaining to motor vehicle dealers in Virginia?
+What does the Office of Consumer Affairs under the Virginia Department of Agriculture and Consumer Services do?
+What does the National Highway Traffic Safety Administration (NHTSA) do?
+What does the National Insurance Crime Bureau (NICB) offer to the public?
+##EXPECTEDRESULTS
+vehicles\general\consumer.json
+##QUERY
+What form is needed to report an accident to the DMV?
+How much does it cost to submit an accident report to the DMV?
+How can I submit an accident report?
+If I believe the other vehicle was uninsured, what happens?
+What form is used to request insurance information?
+##EXPECTEDRESULTS
+vehicles\general\crash-dmv.json
+##QUERY
+Where can I find information about the Lemon Law in Virginia?
+Does the Virginia DMV have any tips for buying a used car?
+Where can I find information on reporting a car crash to the DMV?
+Where can I find vehicle consumer information?
+##EXPECTEDRESULTS
+vehicles\general\homepage.json
+##QUERY
+What is the difference between leasing and renting a vehicle in Virginia?
+Who is responsible for titling a leased vehicle in Virginia?
+Who is responsible for registering a leased vehicle in Virginia?
+What options does a lessee have at the end of a vehicle lease in Virginia?
+Under what conditions can a lessee be exempt from paying sales and use tax (SUT) when buying out their leased vehicle in Virginia?
+##EXPECTEDRESULTS
+vehicles\general\leased.json
+##QUERY
+What does Virginia's Lemon Law require if my new vehicle is a lemon?
+How many times must I have tried to have my new vehicle repaired for the same problem before it can be classified as a lemon?
+For how many days must my vehicle be out of service in one year for it to be classified as a lemon?
+Who should I contact before filing a Lemon Law claim?
+Within how many months of receiving the vehicle must I file a Lemon Law claim?
+##EXPECTEDRESULTS
+vehicles\general\lemon-law.json
+##QUERY
+What is the fee that DMV collects from Manufactured Home Dealers for the Department of Housing and Community Development (DHCD) at the time of titling?
+What application must be completed to title a manufactured home or mobile office?
+What ownership documents are required to title a manufactured home or mobile office?
+What form is required to convert a manufactured home to real property?
+Where do I need to contact to obtain an office trailer plate for my mobile office?
+##EXPECTEDRESULTS
+vehicles\general\mobile.json
+##QUERY
+What does an odometer reading of 'Not Actual' mean?
+What does an odometer reading of 'Exceeds the Mechanical Limits' mean?
+What should I do if I believe I am the victim of odometer fraud?
+What are some things I should do when buying a used vehicle to avoid odometer fraud?
+What does an odometer reading of 'Exempt' mean?
+##EXPECTEDRESULTS
+vehicles\general\odometer.json
+##QUERY
+What can happen to pets left in hot cars?
+How do dogs and cats dispel heat?
+Why should pets be restrained while driving?
+What are some options for restraining pets in a vehicle?
+##EXPECTEDRESULTS
+vehicles\general\pets-cars.json
+##QUERY
+Why is it important to check for vehicle recalls?
+How can I check for outstanding recalls on my vehicle?
+How will I be notified if my vehicle is recalled?
+Will I have to pay for recall repairs?
+How can I sign up for NHTSA recall alerts?
+##EXPECTEDRESULTS
+vehicles\general\recalls.json
+##QUERY
+What are some websites that offer vehicle value estimates?
+What are some ways to obtain information on the vehicle you plan to purchase?
+What should I check for when inspecting a vehicle I plan to purchase?
+What should I do after purchasing a vehicle in Virginia?
+What should I check for to ensure the vehicle does not have water damage?
+##EXPECTEDRESULTS
+vehicles\general\used-car-tips.json
+##QUERY
+What are the minimum insurance requirements for vehicles in Virginia?
+What are the penalties for not complying with insurance requirements in Virginia?
+What options do uninsured vehicle owners have to reinstate their driving and vehicle registration privileges?
+What are the minimum liability insurance coverage limits for policies effective between January 1, 2022, and December 31, 2024?
+What are the minimum liability insurance coverage limits for policies effective on or after January 1, 2025?
+##EXPECTEDRESULTS
+vehicles\insurance-requirements\homepage.json
+##QUERY
+Is there an annual highway use fee for electric vehicles in Virginia?
+When is the annual highway use fee updated?
+Where can I find more details about the Highway Use Fee?
+Does the DMV offer Clean Special Fuel Plates to owners of electric vehicles?
+Where can I find more details about Clean Special Fuel Plates?
+##EXPECTEDRESULTS
+vehicles\registration\alternative-vehicles.json
+##QUERY
+What is the registration fee for registering a vehicle with antique or permanent vintage license plates?
+What are the usage restrictions for antique vehicles registered with antique license plates or permanent vintage license plates?
+What are the requirements if I want to use my antique vehicle for everyday driving with vintage license plates?
+What is the penalty for violating antique vehicle rules?
+What do I need to certify when using the Antique Vehicle Applicant Certification (VSA 10B)?
+##EXPECTEDRESULTS
+vehicles\registration\antique.json
+##QUERY
+Where is the vehicle color displayed?
+When do I select the color code for my vehicle?
+What do I do if my vehicle has two exterior colors when registering?
+What code do I use if my car is black?
+Where do I write the color code when renewing by mail?
+##EXPECTEDRESULTS
+vehicles\registration\color-codes.json
+##QUERY
+What happens if I have delinquent local government personal property taxes?
+Who do I contact if I have been reported as having delinquent tangible personal property taxes?
+How can I legally drive for one additional month if I am unable to renew my registration?
+What happens if I have two or more unpaid tolls?
+What should I do if I was not operating the vehicle at the time of the toll violation?
+##EXPECTEDRESULTS
+vehicles\registration\denials.json
+##QUERY
+Where are emissions inspections required in Virginia?
+How long are Virginia emissions inspections valid for?
+How can I get my vehicle inspected for emissions in Virginia?
+What types of vehicles are exempt from emissions inspections in Virginia?
+If I am registering my vehicle for the first time in Virginia, does it need an emissions inspection?
+##EXPECTEDRESULTS
+vehicles\registration\emissions.json
+##QUERY
+How much money can I save by renewing my vehicle registration online?
+What do I need to sign up for e-notifications?
+How early does the DMV send out renewal notifications?
+Why might I receive a paper renewal notice even after signing up for e-notifications?
+Can all owners of a vehicle sign up for e-notifications?
+##EXPECTEDRESULTS
+vehicles\registration\enotification-info.json
+##QUERY
+What happens if I do not receive a confirmation notice after requesting electronic notifications?
+What should I do if I receive incorrect notifications or notices that are not directed to me?
+How can I change my preferred method or opt out of receiving electronic notifications?
+How does the DMV handle the contact information I provide for electronic notifications?
+What notifications will still be sent via mail?
+##EXPECTEDRESULTS
+vehicles\registration\enotification-policy.json
+##QUERY
+What is the annual fee to register a motorcycle?
+What is the annual fee for registering trailers designed exclusively to transport boats or horses?
+How much is the annual fee for a passenger motor vehicle with an empty weight of 4,001 pounds?
+What is the annual fee for specialized mobile equipment?
+What is the annual fee for property carrying vehicles with a gross weight of 56,801 pounds and over?
+##EXPECTEDRESULTS
+vehicles\registration\exemp-disc-chart.json
+##QUERY
+What options do farmers in Virginia have for vehicle registration?
+What is required when operating a slow-moving farm vehicle?
+When are you required to display a slow-moving vehicle emblem on farm equipment?
+What is an F-tag?
+What type of vehicles can use a DMV-issued permanent farm use placard starting July 1, 2024?
+##EXPECTEDRESULTS
+vehicles\registration\farm.json
+##QUERY
+Where can I register my vehicle?
+What will DMV issue me when I register my vehicle?
+Where do I place the license plate decals?
+Where should I keep the registration card?
+What form do I complete to purchase new Virginia license plates?
+##EXPECTEDRESULTS
+vehicles\registration\first-reg.json
+##QUERY
+What does a vehicle registration prove?
+How often do registrations need to be renewed?
+What do you receive when you complete a Virginia registration?
+What inspection is required before registering your vehicle?
+What determines my renewal fee?
+Can I get a refund if I cancel my registration early?
+##EXPECTEDRESULTS
+vehicles\registration\homepage.json
+##QUERY
+What city collects local vehicle registration fees in conjunction with state vehicle registration fees?
+If my vehicle is garaged in Virginia Beach, how can I renew my state and local vehicle registrations?
+Where can Virginia Beach citizens find out more about the local vehicle registration fee?
+What are the benefits of this program for customers?
+How does this program improve vehicle registration processing for localities?
+##EXPECTEDRESULTS
+vehicles\registration\lvrp.json
+##QUERY
+How will I receive my renewal notice?
+What should I do if my address is incorrect on the renewal notice?
+How much of a discount do I get if I renew my vehicle registration for two years?
+Where do I mail my renewal payment?
+How long should I wait before contacting DMV about my decals?
+##EXPECTEDRESULTS
+vehicles\registration\mail-renew.json
+##QUERY
+What documents are needed to register a moped with the Virginia DMV?
+Is it legal to drive a moped on the interstate in Virginia?
+What is the minimum age to drive a moped in Virginia?
+Are moped drivers required to wear a helmet in Virginia?
+What taxes are mopeds subject to in Virginia?
+##EXPECTEDRESULTS
+vehicles\registration\moped.json
+##QUERY
+What is a state-owned vehicle?
+What is the EZFleet system and who is eligible to use it?
+What is the EZReg system and who is eligible to use it?
+What should a state agency do when it wants to dispose of a vehicle?
+What is the Driver Alert program and what does it allow state agencies to request?
+##EXPECTEDRESULTS
+vehicles\registration\state-owned-vehicles.json
+##QUERY
+What happens if I have delinquent taxes or fees?
+How long is the limited initial registration period for a vehicle purchased after a stop is placed for delinquent taxes or fees?
+How will I know if I have a stop for delinquent taxes or fees?
+Who should I contact to find out how much I owe for delinquent taxes or fees?
+How long does it take for a stop to be removed after I pay the delinquent taxes or fees?
+##EXPECTEDRESULTS
+vehicles\registration\stop-register.json
+##QUERY
+What is considered a military surplus motor vehicle?
+If I register an MSMV between July 1, 2018 and December 31, 2018, what license plate options are available?
+If I register a MSMV after December 31, 2018, what license plate options are available?
+What are the driving restrictions for MSMVs with military surplus license plates?
+What are the consequences for violating military surplus motor vehicle rules?
+##EXPECTEDRESULTS
+vehicles\registration\surplus.json
+##QUERY
+How long is a standard trip permit valid for?
+How long is a prospective purchaser's trip permit valid for?
+How much does a trip permit cost?
+What do I need to apply for a standard trip permit?
+What do I need to apply for a prospective purchaser's trip permit?
+##EXPECTEDRESULTS
+vehicles\registration\temp-permit.json
+##QUERY
+What do I need to send in the mail when applying for registration?
+What form should I use to apply for registration?
+What do I do if I have bought a car that already has license plates?
+How can I pay for my registration by mail?
+If I replace my plates without renewing my registration, what expiration date will my decals have?
+##EXPECTEDRESULTS
+vehicles\registration\title-mail-reg-only.json
+##QUERY
+What documents do I need to submit to register a tow truck in Virginia?
+How do I register a tow truck if it is operated for hire?
+What is a wrecker?
+What is the definition of for-hire?
+What is the definition of private use?
+##EXPECTEDRESULTS
+vehicles\registration\tow-truck-reg.json
+##QUERY
+How can trailers be registered in Virginia?
+How is the trailer registration fee determined?
+Are permanent license plates available for trailers?
+Is there an additional registration fee for trailers with permanent license plates?
+What form do I need to complete to order permanent trailer plates?
+##EXPECTEDRESULTS
+vehicles\registration\trailer.json
+##QUERY
+What are some of the fees associated with the Virginia DMV?
+What is the Highway Use Fee?
+What is the Motor Vehicle Sales and Use Tax?
+##EXPECTEDRESULTS
+vehicles\taxes-fees\homepage.json
+##QUERY
+What reasons are applicable for a Sales and Use Tax refund?
+What do I need to submit to apply for a Sales and Use Tax refund?
+What is the Online Dealer Program?
+What do I need to submit to apply for a Sales and Use Tax exemption when titling a newly acquired vehicle?
+Where can I apply if I purchased the vehicle from a dealer not participating in the Online Dealer Program?
+##EXPECTEDRESULTS
+vehicles\taxes-fees\sales-and-use-tax-refunds.json
+##QUERY
+What is the Sales and Use Tax (SUT) percentage that Virginia collects?
+What is the minimum amount due for the Sales and Use Tax (SUT)?
+What is included in the gross sales price of a vehicle?
+If I am titling my vehicle in Virginia for the first time and have a valid title from another state, do I have to pay the SUT?
+Under what circumstances might I be required to submit another form of bill of sale besides the sales price entered on the title certificate?
+##EXPECTEDRESULTS
+vehicles\taxes-fees\sut.json
+##QUERY
+What is the minimum age to operate an ATV?
+What are the requirements for titling an ATV or off-road motorcycle?
+Where can I title my ATV or off-road motorcycle?
+What should I do if I have an electronic title and need a paper title?
+Are ATVs and off-road motorcycles required to be registered?
+##EXPECTEDRESULTS
+vehicles\title\all-terrain-vehicles.json
+##QUERY
+How long does it take to process my title application?
+Where do I drop off my title application?
+What form of payment is accepted for the drop-off service?
+What do I do if the DMV needs more information to process my application?
+How will I know when my title is ready for pickup?
+##EXPECTEDRESULTS
+vehicles\title\app-dropoff-service.json
+##QUERY
+Can I designate a business entity as a beneficiary for my vehicle title?
+What form do I need to submit to add, change, or remove a beneficiary designation on my vehicle title?
+What happens if there is a lien on the vehicle when I try to designate a beneficiary?
+If I designate a beneficiary on my vehicle title, is their signature required for any transactions related to the vehicle while I am still alive?
+How many days does the beneficiary have to apply for a certificate of title after the death of the owner?
+##EXPECTEDRESULTS
+vehicles\title\designative-beneficiary.json
+##QUERY
+Who is eligible for a Sales and Use Tax exemption on purchased vehicles?
+What documentation is required to apply for a SUT exemption when titling a newly acquired vehicle?
+Where do you mail the required documents if you purchased the vehicle through an Online Dealer Program participant and paid the SUT at that time?
+What is the Online Dealer Program?
+How can I get a Benefit Summary from the VA?
+##EXPECTEDRESULTS
+vehicles\title\disabled-vet-tax-exemption.json
+##QUERY
+What is the definition of a "Converted Electric Vehicle" according to the Virginia DMV?
+What form needs to be completed when applying for a title for a Converted Electric Vehicle?
+What documents are required when applying for a title for a Converted Electric Vehicle?
+Where can I submit the documents and fees to apply for a title for a Converted Electric Vehicle?
+Is a converted electric vehicle considered a reconstructed vehicle?
+##EXPECTEDRESULTS
+vehicles\title\electric.json
+##QUERY
+What is the electronic titling program?
+Who is eligible to use the electronic titling program?
+What kind of vehicles are eligible for electronic titling?
+How do I request a paper title if I use the electronic titling program?
+Can a business use the electronic titling program?
+##EXPECTEDRESULTS
+vehicles\title\etitle.json
+##QUERY
+What information is on a title?
+What fee do I need to pay to get a title?
+What is the difference between a title and registration?
+How do I record the odometer reading when a vehicle is sold or transferred?
+What should I do if the out-of-state title does not have an assignment section?
+##EXPECTEDRESULTS
+vehicles\title\homepage.json
+##QUERY
+What is a lien?
+How long does the lender have to notify you that your vehicle loan has been paid off?
+What happens when lenders participate in DMV's electronic lien program?
+What should I do if my lender does not participate in the electronic lien program?
+What should I do if I am unable to get a lien release because the lender has gone out of business?
+##EXPECTEDRESULTS
+vehicles\title\liens.json
+##QUERY
+Where can I mail my application to title and register my vehicle using USPS?
+What should I do if I want a specialty or personalized plate?
+What happens if I do not provide a Bill of Sale or SUT-1?
+Can I submit photocopies of my documents?
+Can I pay with a credit card through the mail?
+##EXPECTEDRESULTS
+vehicles\title\mail.json
+##QUERY
+What is a motor home?
+What is the minimum number of permanently installed independent life support systems that a reconstructed RV must contain?
+Name four permanently installed independent life support systems that a completed, reconstructed RV must contain to meet the National Fire Protection Association standards.
+Does a potable water supply system need to have an exterior service supply connection?
+##EXPECTEDRESULTS
+vehicles\title\motor-home.json
+##QUERY
+How can I obtain a printed vehicle title?
+What documents do I need to bring to the customer service center to obtain a printed title?
+What happens if my vehicle has no liens when I request a printed title?
+What happens if a title has already been printed after requesting DMV to hold it, and I request another printed title?
+##EXPECTEDRESULTS
+vehicles\title\original-electronic.json
+##QUERY
+What forms are needed to apply for a Certificate of Title and Registration?
+What ownership documents or bills of sale are required?
+How many miles may replica vehicles be driven each year?
+Is SUT required for vehicles that weigh 26,001 pounds or more?
+What is the inspection fee?
+##EXPECTEDRESULTS
+vehicles\title\reconstructed.json
+##QUERY
+What form is required to apply for a replacement title?
+If there are multiple owners, how many are required to apply for the replacement title?
+What happens if the vehicle had a lien on it and the lien has not been satisfied?
+What document should be provided if there is no will and no executor or administrator has been appointed?
+How can I get my replacement title?
+##EXPECTEDRESULTS
+vehicles\title\replacement.json
+##QUERY
+What is a repossessed vehicle?
+What must a lienholder do before reselling a repossessed vehicle?
+What form should an out-of-state lienholder use to apply for a Virginia REPO title?
+When titling a vehicle, what documentation concerning address is required?
+Do out-of-state lienholders always have to title a repossessed vehicle in their name before selling it in Virginia?
+##EXPECTEDRESULTS
+vehicles\title\repossessed.json
+##QUERY
+Who is required to obtain a salvage certificate for salvage or nonrepairable vehicles in their possession?
+Is it lawful for a salvage dealer to sell vehicle components or parts to unlicensed persons?
+What must a person do before selling a rebuilt vehicle?
+What are some of the statutes that the Commonwealth of Virginia has related to salvage and nonrepairable vehicles?
+##EXPECTEDRESULTS
+vehicles\title\sal-veh-law-req.json
+##QUERY
+What is the fee for a substitute title?
+What form do I need to fill out to change my address on a title?
+What form is needed to transfer or add a lien?
+What is the process for removing a deceased owner from a title if I am a co-owner with the right of survivorship?
+What should I do if there is a lien on the vehicle when I want to make changes to the existing title record?
+##EXPECTEDRESULTS
+vehicles\title\substitute.json
+##QUERY
+What form do I need to submit to get a plate for my homemade trailer?
+How much does the initial plate fee cost?
+Where can I submit the application for a homemade trailer plate?
+What do I do after I have the VIN plate?
+Who should I contact to inspect the trailer if I live in Virginia Beach?
+##EXPECTEDRESULTS
+vehicles\title\trailer-plate.json
+##END
