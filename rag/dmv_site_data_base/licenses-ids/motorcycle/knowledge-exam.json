@@ -5,5 +5,6 @@
     "attachments": {
         "dmv2.pdf": "attachments\\dmv2.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\motorcycle\\knowledge-exam.json"
 }

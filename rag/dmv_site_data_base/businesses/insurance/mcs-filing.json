@@ -4,5 +4,6 @@
     "text_content": "Filing Insurance Electronically\nVirginia DMV offers insurance companies a service to electronically file insurance for motor carriers online vs submitting paper forms. This service option allows insurance companies to submit individual filings or to send a file containing multiple insurance filings.\nCompanies can submit the following types of information electronically:\nForm E - Motor Carrier Bodily Injury and Property Damage Liability Certificates\nForm H - Motor Carrier Cargo Certificates\nForm K - Notice of Cancellation\nForm G - Motor Carrier Bodily Injury and Property Damage Liability Surety Bonds\nForm J - Motor Carrier Cargo Surety Bonds\nBinder\u00a0 - Liability or Cargo\nIn addition, insurance companies using this service will be able to view and print the summary of any certificate of insurance, notice of cancellation, or binder entered online.\nIf you are an insurance company and are interested in taking advantage of this service, please contact Use Agreement Services by email at\nuseagreement@dmv.virginia.gov\nor by phone at (804) 474-2294 for more information.",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\insurance\\mcs-filing.json"
 }

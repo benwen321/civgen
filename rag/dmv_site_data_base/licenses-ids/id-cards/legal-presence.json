@@ -7,5 +7,6 @@
         "ead_chart.pdf": "attachments\\ead_chart.pdf",
         "dmv141.pdf": "attachments\\dmv141.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\id-cards\\legal-presence.json"
 }

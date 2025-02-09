@@ -6,5 +6,6 @@
         "mcs115.pdf": "attachments\\mcs115.pdf",
         "vsa14.pdf": "attachments\\vsa14.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\homepage.json"
 }

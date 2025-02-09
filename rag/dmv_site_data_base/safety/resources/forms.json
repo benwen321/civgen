@@ -18,5 +18,6 @@
         "tss96.pdf": "attachments\\tss96.pdf",
         "tss98.pdf": "attachments\\tss98.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "safety\\resources\\forms.json"
 }

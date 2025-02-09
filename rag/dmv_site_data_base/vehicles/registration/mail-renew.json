@@ -4,5 +4,6 @@
     "text_content": "After your first registration, DMV will mail your renewal notice prior to the expiration date of your registration.\nTo renew by mail:\nReview your pre-printed vehicle renewal notice that arrived in the mail. If your address is incorrect on the notice, you can still renew by mail. If any other information is incorrect, call DMV at (804) 497-7100 to speak with a DMV customer service agent about the incorrect information.\nComplete the registration renewal form.\nIf you are eligible for a multi-year discount and renew your vehicle registration for two years, you will receive a $2 discount.\nEnclose your payment and return the registration in the enclosed envelope to:\nVirginia Department of Motor Vehicles\nAttn: Renewal Center\nP.O. Box 27412\nRichmond, VA 23269-0001\nEstimated Delivery Time\nMost customers receive their vehicle registration materials within five days, but U.S. mail delivery times vary. Please allow 15 days to receive your decals before contacting DMV.",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\mail-renew.json"
 }

@@ -6,5 +6,6 @@
         "dmv60a.pdf": "attachments\\dmv60a.pdf",
         "dmv60v.pdf": "attachments\\dmv60v.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\cdl\\manual.json"
 }

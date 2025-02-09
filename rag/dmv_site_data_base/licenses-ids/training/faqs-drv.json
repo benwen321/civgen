@@ -5,5 +5,6 @@
     "attachments": {
         "hp404.pdf": "attachments\\hp404.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\training\\faqs-drv.json"
 }

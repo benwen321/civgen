@@ -7,5 +7,6 @@
         "hp505.pdf": "attachments\\hp505.pdf",
         "US532e.pdf": "attachments\\US532e.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\training\\trainer.json"
 }

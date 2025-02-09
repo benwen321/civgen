@@ -6,5 +6,6 @@
         "vsa18.pdf": "attachments\\vsa18.pdf",
         "vsa67.pdf": "attachments\\vsa67.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\designative-beneficiary.json"
 }

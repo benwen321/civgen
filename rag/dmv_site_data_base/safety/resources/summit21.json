@@ -1,8 +1,9 @@
 {
     "url": "https://www.dmv.virginia.gov/safety/resources/summit21",
     "title": "2021 Virginia Highway Safety Summit",
-    "text_content": "",
+    "text_content": "N/A",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "safety\\resources\\summit21.json"
 }

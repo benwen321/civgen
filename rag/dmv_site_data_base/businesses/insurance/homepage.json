@@ -4,5 +4,6 @@
     "attachments": {
         "fr3.pdf": "attachments\\fr3.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\insurance\\homepage.json"
 }

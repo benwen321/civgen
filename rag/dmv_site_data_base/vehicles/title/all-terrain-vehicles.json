@@ -6,5 +6,6 @@
         "vsa17a.pdf": "attachments\\vsa17a.pdf",
         "dmv177.pdf": "attachments\\dmv177.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\all-terrain-vehicles.json"
 }

@@ -5,5 +5,6 @@
     "attachments": {
         "dts32e.pdf": "attachments\\dts32e.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\training\\dtsmanual-license.json"
 }

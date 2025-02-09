@@ -7,5 +7,6 @@
         "dl10.pdf": "attachments\\dl10.pdf",
         "dl23.pdf": "attachments\\dl23.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\id-cards\\privilege.json"
 }

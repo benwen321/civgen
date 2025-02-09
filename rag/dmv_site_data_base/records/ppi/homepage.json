@@ -4,5 +4,6 @@
     "attachments": {
         "crd01.pdf": "attachments\\crd01.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "records\\ppi\\homepage.json"
 }

@@ -6,5 +6,6 @@
         "hp404.pdf": "attachments\\hp404.pdf",
         "hp405.pdf": "attachments\\hp405.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\training\\applying.json"
 }

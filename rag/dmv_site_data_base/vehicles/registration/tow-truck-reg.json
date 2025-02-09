@@ -11,5 +11,6 @@
         "mcs115.pdf": "attachments\\mcs115.pdf",
         "mcs116.pdf": "attachments\\mcs116.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\tow-truck-reg.json"
 }

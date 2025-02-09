@@ -7,5 +7,6 @@
         "dl2p.pdf": "attachments\\dl2p.pdf",
         "cdl_med_cert.pdf": "attachments\\cdl_med_cert.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\cdl\\medical-faqs.json"
 }

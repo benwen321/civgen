@@ -4,5 +4,6 @@
     "text_content": "If you have a fuels tax license, you may have to file fuel activity information monthly to DMV. Fuels tax licensees required to report activity in Virginia must submit monthly fuel activity information electronically.\nWhether you are required to submit fuel activity information or not, you are required to maintain a record of your fuel activity and DMV may inspect your records.\nWho must file a report?\nAviation consumer\nBlender\nBulk user of alternative fuel\nDistributor\nFuel alcohol provider\nImporter\nMotor fuel transporter\nProvider of alternative fuel\nRetailer of alternative fuel\nSupplier\nTerminal operator\nWhen is the fuel activity information due?\nFuel activity information must be submitted by the 20th day of the second month after the activity month, with one exception: Fuel activity for the month of May must be submitted by the last day DMV is open for business in June.\nHow do you file?\nAll returns are required to be filed electronically using VAETS. In VAETS, you may manually input your monthly fuel activity or use an EDI (ASCII or EDIX12) filing format to upload activity information. You can find more information about filing in VAETS at\nVAETS Training Materials and Resources\n.",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\tax-act\\reports.json"
 }

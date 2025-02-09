@@ -7,5 +7,6 @@
         "dmv177.pdf": "attachments\\dmv177.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf",
         "vsa35.pdf": "attachments\\vsa35.pdf"
-    }
+    },
+    "page": "vehicles\\general\\mobile.json"
 }

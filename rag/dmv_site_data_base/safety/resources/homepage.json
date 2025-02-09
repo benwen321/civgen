@@ -8,5 +8,6 @@
         "application_ez_guide.pdf": "attachments\\application_ez_guide.pdf",
         "dmv16.pdf": "attachments\\dmv16.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "safety\\resources\\homepage.json"
 }

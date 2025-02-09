@@ -5,5 +5,6 @@
         "DMV-313.pdf": "attachments\\DMV-313.pdf",
         "vsa67.pdf": "attachments\\vsa67.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\etitle.json"
 }

@@ -7,5 +7,6 @@
         "vsa12m.pdf": "attachments\\vsa12m.pdf",
         "dmv264.pdf": "attachments\\dmv264.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\moped.json"
 }

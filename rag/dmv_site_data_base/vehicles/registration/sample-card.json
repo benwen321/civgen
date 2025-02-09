@@ -1,8 +1,9 @@
 {
     "url": "https://www.dmv.virginia.gov/vehicles/registration/sample-card",
     "title": "Sample Registration Card",
-    "text_content": "",
+    "text_content": "N/A",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\sample-card.json"
 }

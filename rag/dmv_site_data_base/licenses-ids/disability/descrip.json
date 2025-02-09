@@ -6,5 +6,6 @@
         "med10.pdf": "attachments\\med10.pdf",
         "med11.pdf": "attachments\\med11.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\disability\\descrip.json"
 }

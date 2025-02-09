@@ -3,5 +3,6 @@
     "text_content": "Motor Vehicle Sales and Use Tax\nHighway Use Fee (HUF)\nAll DMV Fees",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\taxes-fees\\homepage.json"
 }

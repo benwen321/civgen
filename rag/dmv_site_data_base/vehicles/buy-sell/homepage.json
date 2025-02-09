@@ -6,5 +6,6 @@
         "fms210.pdf": "attachments\\fms210.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf",
         "vsa17a.pdf": "attachments\\vsa17a.pdf"
-    }
+    },
+    "page": "vehicles\\buy-sell\\homepage.json"
 }

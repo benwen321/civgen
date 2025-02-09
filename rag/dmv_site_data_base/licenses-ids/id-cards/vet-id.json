@@ -5,5 +5,6 @@
     "attachments": {
         "dl11.pdf": "attachments\\dl11.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\id-cards\\vet-id.json"
 }

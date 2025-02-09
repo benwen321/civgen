@@ -7,5 +7,6 @@
         "sut1.pdf": "attachments\\sut1.pdf",
         "vsa14.pdf": "attachments\\vsa14.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\mail.json"
 }

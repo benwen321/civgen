@@ -6,5 +6,6 @@
         "sut1.pdf": "attachments\\sut1.pdf",
         "sut1a.pdf": "attachments\\sut1a.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\taxes-fees\\sut.json"
 }

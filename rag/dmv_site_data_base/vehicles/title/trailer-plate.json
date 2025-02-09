@@ -6,5 +6,6 @@
         "vsa22.pdf": "attachments\\vsa22.pdf",
         "vsa17a.pdf": "attachments\\vsa17a.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\trailer-plate.json"
 }

@@ -5,5 +5,6 @@
     "attachments": {
         "med13.pdf": "attachments\\med13.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\cdl\\spe.json"
 }

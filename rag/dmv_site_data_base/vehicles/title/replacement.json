@@ -7,5 +7,6 @@
         "vsa67.pdf": "attachments\\vsa67.pdf",
         "vsa24.pdf": "attachments\\vsa24.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\replacement.json"
 }

@@ -6,5 +6,6 @@
         "vsa14_0.pdf": "attachments\\vsa14_0.pdf",
         "vsa14.pdf": "attachments\\vsa14.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\title-mail-reg-only.json"
 }

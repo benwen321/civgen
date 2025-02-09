@@ -6,5 +6,6 @@
         "fr44.pdf": "attachments\\fr44.pdf",
         "fr46.pdf": "attachments\\fr46.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\insurance\\ext-forms.json"
 }

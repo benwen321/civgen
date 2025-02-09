@@ -5,5 +5,6 @@
         "sut3.pdf": "attachments\\sut3.pdf",
         "sut2.pdf": "attachments\\sut2.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\disabled-vet-tax-exemption.json"
 }

@@ -7,5 +7,6 @@
         "vsa10.pdf": "attachments\\vsa10.pdf",
         "vsa10b.pdf": "attachments\\vsa10b.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\antique.json"
 }

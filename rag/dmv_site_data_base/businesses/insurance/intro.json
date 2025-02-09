@@ -6,5 +6,6 @@
         "Insurance-Inquiry-Notice-example.pdf": "attachments\\Insurance-Inquiry-Notice-example.pdf",
         "insurance-order-suspension-example.pdf": "attachments\\insurance-order-suspension-example.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\insurance\\intro.json"
 }

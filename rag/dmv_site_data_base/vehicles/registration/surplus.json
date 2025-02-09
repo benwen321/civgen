@@ -5,5 +5,6 @@
     "attachments": {
         "vsa10m.pdf": "attachments\\vsa10m.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\registration\\surplus.json"
 }

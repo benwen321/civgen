@@ -8,5 +8,6 @@
         "motorcycle-endorsement.pdf": "attachments\\motorcycle-endorsement.pdf",
         "mc-registrations.pdf": "attachments\\mc-registrations.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "safety\\crash-data\\homepage.json"
 }

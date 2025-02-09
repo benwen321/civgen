@@ -5,5 +5,6 @@
         "dl81.pdf": "attachments\\dl81.pdf",
         "dl82.pdf": "attachments\\dl82.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "records\\vital\\homepage.json"
 }

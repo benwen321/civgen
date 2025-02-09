@@ -9,5 +9,6 @@
         "dl1p.pdf": "attachments\\dl1p.pdf",
         "dl5.pdf": "attachments\\dl5.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\id-cards\\get-id.json"
 }

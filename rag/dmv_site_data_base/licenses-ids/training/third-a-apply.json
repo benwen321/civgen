@@ -11,5 +11,6 @@
         "tpt500.pdf": "attachments\\tpt500.pdf",
         "tpt575a.pdf": "attachments\\tpt575a.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\training\\third-a-apply.json"
 }

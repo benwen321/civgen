@@ -4,5 +4,6 @@
     "text_content": "You must renew your certificate of fitness annually. A renewal application will be sent to you prior to the expiration of your certificate of fitness.\nAs with the application for an original TNC Certificate of Fitness, there are two options for renewing the certificate: (1) pay a filing fee of $60,000 with the renewal application, or (2) pay a $20 surcharge for each driver transcript you obtain from Virginia DMV for your TNC partners (this surcharge is in addition to the standard fees and charges that apply to driver transcripts). You may select either of these options on your renewal application, regardless of the fee option you selected when you applied for the original certificate, or the option you selected when you last applied to renew the certificate.\nYou may mail your completed application to the address shown on the application. Once your application is processed, you will receive a renewal confirmation card.\nIf you fail to renew your certificate of fitness, you will be required to apply for the certificate again as a new applicant and repeat the certificate application process.\nDMV reexamines the fitness of for-hire motor carriers that operate under a certificate of fitness. The reexamination typically will occur during renewal of the certificate.",
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\tnc\\renew.json"
 }

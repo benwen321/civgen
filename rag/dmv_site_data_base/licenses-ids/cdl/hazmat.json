@@ -5,5 +5,6 @@
     "attachments": {
         "dl70.pdf": "attachments\\dl70.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\cdl\\hazmat.json"
 }

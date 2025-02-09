@@ -6,5 +6,6 @@
         "us532a.pdf": "attachments\\us532a.pdf",
         "us532b.pdf": "attachments\\us532b.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "records\\release\\homepage.json"
 }

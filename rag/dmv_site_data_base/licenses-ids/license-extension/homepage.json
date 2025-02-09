@@ -4,5 +4,6 @@
     "attachments": {
         "dl1p.pdf": "attachments\\dl1p.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\license-extension\\homepage.json"
 }

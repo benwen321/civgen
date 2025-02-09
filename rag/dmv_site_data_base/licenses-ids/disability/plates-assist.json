@@ -7,5 +7,6 @@
         "med11.pdf": "attachments\\med11.pdf",
         "med12.pdf": "attachments\\med12.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\disability\\plates-assist.json"
 }

@@ -104,5 +104,6 @@
         "House_District_99.pdf": "attachments\\House_District_99.pdf",
         "House_District_100.pdf": "attachments\\House_District_100.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "safety\\crash-data\\house-legis-district-crash-data.json"
 }

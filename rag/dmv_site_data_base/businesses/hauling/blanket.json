@@ -27,5 +27,6 @@
         "vbc2.pdf": "attachments\\vbc2.pdf",
         "vbaddendum.pdf": "attachments\\vbaddendum.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\hauling\\blanket.json"
 }

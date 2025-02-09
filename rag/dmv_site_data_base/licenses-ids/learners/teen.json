@@ -5,5 +5,6 @@
     "attachments": {
         "dmv201.pdf": "attachments\\dmv201.pdf",
         "dmv16.pdf": "attachments\\dmv16.pdf"
-    }
+    },
+    "page": "licenses-ids\\learners\\teen.json"
 }

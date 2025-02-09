@@ -4,5 +4,6 @@
     "attachments": {
         "dmv25.pdf": "attachments\\dmv25.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "businesses\\odealer\\homepage.json"
 }

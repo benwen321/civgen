@@ -6,5 +6,6 @@
         "dl1p.pdf": "attachments\\dl1p.pdf",
         "dmv141.pdf": "attachments\\dmv141.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "records\\personal-information-updates\\homepage.json"
 }

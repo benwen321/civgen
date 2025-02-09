@@ -8,5 +8,6 @@
         "vsa12.pdf": "attachments\\vsa12.pdf",
         "vsa5.pdf": "attachments\\vsa5.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "vehicles\\title\\homepage.json"
 }

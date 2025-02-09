@@ -6,5 +6,6 @@
         "hs3.pdf": "attachments\\hs3.pdf",
         "hs1.pdf": "attachments\\hs1.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\learners\\homeschool.json"
 }

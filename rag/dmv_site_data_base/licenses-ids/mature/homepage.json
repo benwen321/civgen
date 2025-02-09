@@ -6,5 +6,6 @@
         "med80.pdf": "attachments\\med80.pdf",
         "vsa86.pdf": "attachments\\vsa86.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\mature\\homepage.json"
 }

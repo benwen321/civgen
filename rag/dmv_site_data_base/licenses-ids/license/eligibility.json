@@ -6,5 +6,6 @@
         "dmv141.pdf": "attachments\\dmv141.pdf",
         "dmv141s.pdf": "attachments\\dmv141s.pdf",
         "dmv201.pdf": "attachments\\dmv201.pdf"
-    }
+    },
+    "page": "licenses-ids\\license\\eligibility.json"
 }
